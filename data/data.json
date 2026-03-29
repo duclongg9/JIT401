@@ -1,0 +1,1555 @@
+[
+    {
+        "bai_hoc": "Ôn tập bài 1_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "デジタルとは何ですか。",
+                "dap_an_chinh_xac": "数値化された量のこと"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "長さ、重さ、時間など身の回りの多くの物理量は何ですか。",
+                "dap_an_chinh_xac": "アナログ量"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "電気機械式の計算機はいつ開発されましたか。",
+                "dap_an_chinh_xac": "1930年代"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "電子式計算機はいつ開発されましたか。",
+                "dap_an_chinh_xac": "1946年"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "コンピューターの機能は何ですか。",
+                "dap_an_chinh_xac": "記憶と処理"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ファイルについて正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "保存するときにはいつも自分で拡張子を指定しなければならない"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "最も高速に計算できるコンピュータは何ですか",
+                "dap_an_chinh_xac": "スーパーコンピュータ"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "現在使われているコンピュータはデジタルコンピュータです",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "デジタルコンピュータでは、どのような数字に近似して扱っています。",
+                "dap_an_chinh_xac": "一定単位の数字"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "17世紀には提案されたのはパスカルの計算機です。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "スマートフォンはコンピューターの種類の一つです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ドライブとは、ファイルを整理するための入れ物のことです。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "フォルダを閲覧するためにはフォルダを順次クリックして開いていく。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 2_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ホームページを見る場合には何を利用しますか。",
+                "dap_an_chinh_xac": "ブラウザ"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "URLとは何ですか",
+                "dap_an_chinh_xac": "ホームページのアドレス"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "Web2.0とは何ですか",
+                "dap_an_chinh_xac": "双方向型のホームページ"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "クラウドコンピューティングの概念はいつ提唱されましたか。",
+                "dap_an_chinh_xac": "2006"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "著作権は何の権に属しますか。",
+                "dap_an_chinh_xac": "知的所有権"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "工業所有権はどんな権ですか。",
+                "dap_an_chinh_xac": "工業の進歩を保護する権利"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "インターネット利用形態の主なものに何がありますか。",
+                "dap_an_chinh_xac": "ホームページ閲覧とメール送受信"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ポータルサイトは何でしょう。",
+                "dap_an_chinh_xac": "入り口となるサイトのこと"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "特許権はどの権に属しますか。",
+                "dap_an_chinh_xac": "工業所有権"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "インターネットについて正しくないものを一つ選びなさい",
+                "dap_an_chinh_xac": "インターネットのおかげで、何でもできるようになった"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "フリーウェアは有料です。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "メールを送るとき、急な返事を求める。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "著作権は文化的生産物や表現を保護する権利です。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 3_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ITは日本語で何ですか。",
+                "dap_an_chinh_xac": "情報通信技術"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "放送に必要な電波について正しくないものを一つ選びなさい。",
+                "dap_an_chinh_xac": "無限資源である"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "有機ELディスプレイについて正しくないものを一つ選びなさい。",
+                "dap_an_chinh_xac": "液晶のバックライトなども同様の仕組み"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "出力用ハードウェアは何がありますか。",
+                "dap_an_chinh_xac": "プリンター"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "電気を用いた通信は何に分類しますか。",
+                "dap_an_chinh_xac": "無線通信と有線通信"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "携帯電話の機能について正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "セグメント"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "自発光型で、発光ダイオードの一種に分類される表示装置はどれか。",
+                "dap_an_chinh_xac": "有機ELディスプレイ"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "国際標準の携帯電話で利用できるアプリケーションを決定するのが( )と呼ばれるソフトウェアです。",
+                "dap_an_chinh_xac": "オペレーティングシステム"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "オペレーティングシステムの代表的なものは何ですか。",
+                "dap_an_chinh_xac": "Symbian"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "入力用ハードウェアとして、スマートフォンなどでは、何が使われていますか。",
+                "dap_an_chinh_xac": "タッチパネルのセンサ"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ハイビジョン放送は従来のアナログ放送ほどたくさんの情報が必要ではない。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "音声の波をそのまま電波の波に置き換えて送受信するアナログ通信を特徴としているのは第2世代の携帯電話ですか。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "放送に必要な電波はテレビ放送の目的で使われる。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 4_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "IrDAとは、Infrared Data Association という赤外線通信の規格で、家電製品用のリモコンや携帯電話の個人( )などへで利用されています",
+                "dap_an_chinh_xac": "データ交換"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "金属線や光ファイバなどのケーブルで接続できる通信手段について正しくないものを選びなさい。",
+                "dap_an_chinh_xac": "IrDA"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "無線通信手段は何ですか。",
+                "dap_an_chinh_xac": "IrDA"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "FTTHはADSLとどう違いますか。",
+                "dap_an_chinh_xac": "専用の光ファイバーを使"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "一般の電話線を利用するのは何ですか。",
+                "dap_an_chinh_xac": "ADSL"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "専用線を使うのは何ですか。",
+                "dap_an_chinh_xac": "FTTH"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "JRのSuicaなどで使われているのは何ですか。",
+                "dap_an_chinh_xac": "非接触型ICカード"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "携帯電話、パソコン、カーナビ、マウス、キーボード、ヘッドホンなどに搭載されている通信規格は何ですか。",
+                "dap_an_chinh_xac": "Bluetooth"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "IrDAについて正しいものをえらんでください。",
+                "dap_an_chinh_xac": "赤外線通信の規格"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "下がりのことについては正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "下流から上流の方向"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ADSLは非対称デジタル加入者線と訳されますか。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ホームページを見るのは上りです。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ファイルを取ってくるのは下りです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 14,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "LANは無線通信手段です。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 15,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "IrDAは有線接続です。",
+                "dap_an_chinh_xac": "Sai"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 5_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "国と国との間のように、もっと広い範囲でのネットワークとして一般的に使われているのが()です。",
+                "dap_an_chinh_xac": "インターネット"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ハブと呼ばれる集線装置を中心に複数台의コンピュータが接続されたものは何ですか。",
+                "dap_an_chinh_xac": "スター型"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "サーバとなっているコンピューターにはどんな情報が記録されますか。",
+                "dap_an_chinh_xac": "重要な情報"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ファイアウォールは、誰が何のサービスを受けるかを()する機器です。",
+                "dap_an_chinh_xac": "制限"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ネットワークの形態については何がもっともよく使われますか。",
+                "dap_an_chinh_xac": "スター型"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "集中処理システムについて正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "集中処理システムでは、それぞれのコンピュータの負荷が分散される"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "WANについて正しいものをえらんでください",
+                "dap_an_chinh_xac": "大域的につながるネットワークのこと"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ネットワークにおいて、外部からの不正アクセスを防ぐために内部ネットワークと外部ネットワークの間に置かれるものはどれか。",
+                "dap_an_chinh_xac": "ファイアウォール"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "集中処理システムとは、()となるコンピュータが中核となる処理すべてを管理し、ユーザ端末は入出力のみを行うような構成です。",
+                "dap_an_chinh_xac": "中心"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "コンピュータネットワークとは、電子機器同士が電気的にデータの()をできるようにしたものです。",
+                "dap_an_chinh_xac": "送受信"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "サーバはサービスを提供するコンピュータのことです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "クライアントはユーザに対して、サービスを受けるコンピュータのことです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "バス型は、1本の通信ケーブルに複数台のコンピュータが接続されたものです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 14,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "リング型は、開いたケーブルに複数台のコンピュータが接続されたものです。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 15,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "分散処理システムは、処理を複数のコンピュータで分散して管理する構成です。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 6_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "HTTPはハイパーテキスト(文字、図、音、表など)を送るためのアプリケーション層の()の1つです。",
+                "dap_an_chinh_xac": "転送プロトコル"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "IPアドレスとドメイン名の変換を行うサーバを何と言いますか。",
+                "dap_an_chinh_xac": "DNSサーバ"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ホームページを見るときも、ウェブサーバから何を経由してコンテンツ情報が送られてきますか。",
+                "dap_an_chinh_xac": "ルータ"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "途中にあるサーバが故障していると、どのようなことが起こりますか。",
+                "dap_an_chinh_xac": "ホームページ閲覧ができる"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "インターネット経由のメールは、どんな程度の安全性ですか。",
+                "dap_an_chinh_xac": "はがき"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "「.com」のように種別だけで国名がないのはどこのドメイン名ですか。",
+                "dap_an_chinh_xac": "アメリカ"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "IPアドレスについて正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "覚えやすい"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "プロトコルとは何ですか。",
+                "dap_an_chinh_xac": "コンピュータが従うべきデータ転送規約のこと"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "HTMLは、「<」 と 「>」 で囲まれた中の() という標識によって情報を記述します。",
+                "dap_an_chinh_xac": "タグ"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "IPアドレスは入力間違いが多い",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ドメイン名は覚えにくい。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "インターネットには世界中のコンピュータが接続されるので、メールを送ったりホームページにアクセスしたりする先のコンピュータを正しく指定しなければなりません",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 7_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "()とは、オンラインで販売時点のデータを管理するシステムのことです。",
+                "dap_an_chinh_xac": "POS"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "消費者間取引のことは何ですか。",
+                "dap_an_chinh_xac": "CtoC"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "EDIは何ですか。",
+                "dap_an_chinh_xac": "ネットワークを使った電子データ交換の標準化のこと"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ウェブサイトに対するID情報を記憶させ、再度そのサイトにアクセスしたときには自分が誰かを自動的に伝えるのは何という仕組みですか。",
+                "dap_an_chinh_xac": "クッキ"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "電子商取引は何を介した取引プロセスの電子化のことですか。",
+                "dap_an_chinh_xac": "ネットワーク"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "VISAキャッシュはどんな型の電子マネーですか。",
+                "dap_an_chinh_xac": "オープンループ型"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "電子商取引情報の標準化であるEOSについて正しいものをえらんでください。",
+                "dap_an_chinh_xac": "オンラインの受発注システム"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "取引プロセスとは、受注、発注、()以外にも商品案内や配送などの処理、さらには商品開発まで含めます。",
+                "dap_an_chinh_xac": "決済"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "BtoCは企業対消費者取引のことです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "BtoBは消費者間取引のことです。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "コンピュータ化によって顧客についての多様な情報をまとめて管理することが容易になり、コピーして複製を残すことが容易になりました。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "クローズドループ型の代表的なものはMaster CardのMondexです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "電子化し、ネットワークを利用することで、コスト削減につながります。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 8_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "暗号化について正しいものを選びなさい。",
+                "dap_an_chinh_xac": "与えられた原文が推測できないように変換すること"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "()とは、送られてきた文書が確かに本人のものであるかどうかを確かめることです。",
+                "dap_an_chinh_xac": "認証"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "換字式の暗号方式について正しいものをえらんでください",
+                "dap_an_chinh_xac": "文字を何文字かずらすことで暗号化する"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "錠のアイコンは、入力された情報が何によって暗号化されている状態であることを表しますか。",
+                "dap_an_chinh_xac": "SSL"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "鍵を第三者にも知らせてしまう暗号化方式を何と呼びますか。",
+                "dap_an_chinh_xac": "公開鍵方式"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "暗号化して送る側と、受け取って復号化する側は、共通の鍵を持ち、他人に知られないようにして通信している暗号化方式は何ですか。",
+                "dap_an_chinh_xac": "秘密鍵方式"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "機械を使う()の暗号化の1つであるスキュタレー暗号では、円筒にリボンを巻き付けて、リボンに文字を横に書いて送ります。",
+                "dap_an_chinh_xac": "転置式"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "換字式の暗号方式について正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "受け取る側では何文字ずらしたかを知らなくても復号化ができる"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "最近の暗号では、何を使って暗号化、復号化を行いますか。",
+                "dap_an_chinh_xac": "コンピューター"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "公開鍵方式について正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "鍵を第三者に公開しない暗号化方式"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "共通鍵方式はハガキ程度の安全性しかない",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "原文に戻すことを復号化と言います",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "HTTPSは公開鍵方式と秘密鍵方式により暗号化した状態で情報通信を行うことを示します。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 9_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "()は複数箇所にデータのコピーを残すことです。",
+                "dap_an_chinh_xac": "バッグアップ"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "コンピューターのウィルスについて正しいものを選びなさい。",
+                "dap_an_chinh_xac": "機械的に作成されたプログラムである"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "未承諾の広告、詐欺紛いの内容などの迷惑メールのことを何と言いますか。",
+                "dap_an_chinh_xac": "スパムメール"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "コンピューターがあえる事故は何ですか。",
+                "dap_an_chinh_xac": "故障とバグ"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "最近のパスワード窃盗方法は何ですか。",
+                "dap_an_chinh_xac": "トロイの木馬"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "スカベンジングといって、残された個人情報を()する犯罪もあります。",
+                "dap_an_chinh_xac": "収集"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "データーを守る方法について正しくないものを選びなさい。",
+                "dap_an_chinh_xac": "スパムメールを送ること"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "スカベンジングで情報を窃盗する方法について正しいものを選びなさい。",
+                "dap_an_chinh_xac": "共用で使っているコンピュータで削除したファイルをディスクから復活する"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "特に、exe, vbs, scr, pifなどの拡張子を持つ添付ファイルがある場合には即座に開いてください。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "銀行などの重要なサイトを装ってクレジットカード番号や暗証番号を盗み取るフィッシング (Phishing) という詐欺もあります。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "会社などの組織で最も重要な情報を持っているサーバは攻撃対象となりやすいです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "プログラムミスはバグです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ロイの木馬は現代的なパスワード窃盗方法です。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 10_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "コンピュータは、演算装置、()、制御装置、入力装置、出力装置の5要素からなります。",
+                "dap_an_chinh_xac": "記憶装置制"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "マザーボード上でのCPU、メモリ間などの電気の通り道のことを何と言いますか。",
+                "dap_an_chinh_xac": "バス"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "キャッシュについて正しくない内容を選びなさい。",
+                "dap_an_chinh_xac": "記憶容量が非常に大きい"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ハードディスクについて正しくない内容を選びなさい。",
+                "dap_an_chinh_xac": "記憶容量が小さい"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "CPUには何と呼ばれる単純な演算処理、制御処理が実行できますか。",
+                "dap_an_chinh_xac": "命令セット"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "パソコン内で大きな面積を占めるメインとなる基板は何ですか。",
+                "dap_an_chinh_xac": "マザーボード"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "出力装置は何がありますか。",
+                "dap_an_chinh_xac": "ディスプレイやプリンタ"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "RAMについて正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "電源が切れるとデータが残る"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "最も高いデータのアクセス速度があるのは何でしょう。",
+                "dap_an_chinh_xac": "キャッシュ"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "CPUについて正しいものを選びなさい。",
+                "dap_an_chinh_xac": "処理の中心となる部品である"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "マザーボードとケーブルで接続された箱CPUです。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "CPUは処理の中心となる部品です。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "記憶装置はメモリやハードディスクが該当します。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 11_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "チューリングマシンは何からなりますか。",
+                "dap_an_chinh_xac": "テープ、ヘッド"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "空気を抜いたガラス管の中にヒータと電極を閉じこめたものは何ですか。",
+                "dap_an_chinh_xac": "真空管"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "コンピューターの基本回路に何がありますか。",
+                "dap_an_chinh_xac": "OR回路、AND回路、NOT回路"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ICについて正しいものをえらんでください。",
+                "dap_an_chinh_xac": "集積回路である"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "真空管の機能は何ですか。",
+                "dap_an_chinh_xac": "電流を一方通行にすること"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "CPUの動作原理は何に基づいていますか。",
+                "dap_an_chinh_xac": "チューリングマシン"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "大規模集積回路は何世代の論理素子でしょう。",
+                "dap_an_chinh_xac": "第4世代"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "OR回路とは、スイッチが( )に並んだ回路としてモデル化されます。",
+                "dap_an_chinh_xac": "並列"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "真空管は第2世代の論理素子である。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "AND回路の演算のことを論理和と言います",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "OR回路の演算のことを論理和と言います",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "LSIは大規模集積回路です。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "チューリングマシンはヘッド、メモリから構造されますか。",
+                "dap_an_chinh_xac": "Sai"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 13_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "2.情報量の最小単位は何ですか。",
+                "dap_an_chinh_xac": "ピット"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "1.日本語の場合には、英文字よりも情報量がどうなりますか。",
+                "dap_an_chinh_xac": "大幅に数が増える"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "4. アルファベット1文字の情報量はどうなりますか。",
+                "dap_an_chinh_xac": "8 bit = 1 byte"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "3.情報量の最大単位は何ですか。",
+                "dap_an_chinh_xac": "テラバイト"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "6.コンピュータのデータは何の並びで表現された数字ですか。",
+                "dap_an_chinh_xac": "0と1"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "5. データの数字と文字の対応を決めているのは何ですか。",
+                "dap_an_chinh_xac": "文字コード"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "8.日本語でのコードではないのは何ですか。",
+                "dap_an_chinh_xac": "ASCIIコード"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "7.現在、日本語にはひらがな、カタカナ、漢字などを含めていくつの文字にコード番号が割り当てられていますか。",
+                "dap_an_chinh_xac": "65,536"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "データを解釈するときには、どの文字コードを使うべきなのかを知れば正しく表示できす。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "9.日本語1文字を表す情報量はどうなりますか。",
+                "dap_an_chinh_xac": "2バイト"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 14_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "映画では1秒に何回の書き換えを行っていますか。",
+                "dap_an_chinh_xac": "24"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "デジタル画像は横に並んだ点の集まりとして表現されています",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "1画素の情報量は何ビットとなりますか。",
+                "dap_an_chinh_xac": "24"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "Điền vào chỗ trống. ( )を構成する点をピクセルと言います。",
+                "dap_an_chinh_xac": "画像"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "画素数が小さいほどきれいな画像が得られます",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "Điền vào chỗ trống. ( )のことをサンプリング周波数と言います。",
+                "dap_an_chinh_xac": "時間間隔"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "パソコンや携帯電話の液晶画面では何色の小さな短冊が集まっていますか。",
+                "dap_an_chinh_xac": "3"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "着信メロディは高音質な楽曲再生が可能です。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "アナログ量である波をデジタル化するために、一定の細かい時間間隔で何を測りますか。",
+                "dap_an_chinh_xac": "波の高さ"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "画素数が多いほど、ぎざぎざが多い",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "量子化数が大きいと情報量がどうなりますか。",
+                "dap_an_chinh_xac": "多くなります"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "1 kHz=10,000Hz",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ヘルツは1秒あたりの波 (音) の高さの測定回数を表します",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 14,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "MIDIはどんなコードですか。",
+                "dap_an_chinh_xac": "音楽のための特殊なコードです"
+            },
+            {
+                "thu_tu": 15,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "画素は画像を構成する点です。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 15_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "圧縮・解凍ソフトによってファイルを圧縮すると、圧縮方式に応じてファイル名の拡張子は何になりますか。",
+                "dap_an_chinh_xac": "RAR"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "音声を圧縮するには、( )の波としての性質を使います。",
+                "dap_an_chinh_xac": "音"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ランレングス圧縮は最も単純な画像圧縮方式の1つです。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "通信速度のような転送レートを測るときには、1秒あたりのbit数で数え、何を使いますか。",
+                "dap_an_chinh_xac": "Bps"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "一般に100 Kbps 1Mbps以上の通信速度をブロードバンドと言います。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "100メガの光ファイバなどと宣伝されているのは、正確には通信速度が最大100Mbpsという意味です。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "帯域が広いほどデータがどう流れますか。",
+                "dap_an_chinh_xac": "高速に流れます"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "動画像情報圧縮では、何がよく用いられますか。",
+                "dap_an_chinh_xac": "MPEG"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "( )を圧縮するには、音の波としての性質を使います。",
+                "dap_an_chinh_xac": "音声"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "誤り検出・訂正機構の中で、最も単純で基本的なのがパリティチェックによる誤り検出ですか。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "圧縮を伴う画像形式にはどのような形式がよく用いられますか。正しくないものを選びなさい。",
+                "dap_an_chinh_xac": "MPEG"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "低い周波数(波長が長い)の波は何を表しますか。",
+                "dap_an_chinh_xac": "元の波の大まか"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ランレングス圧縮は色がいくつ並ぶかを記述する圧縮方式です。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 16_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "アプリケーションソフトとOSの中間的な位置付けとして、何と呼びますか。",
+                "dap_an_chinh_xac": "ミドルウェア"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "OSの機能に属しないのは何ですか。",
+                "dap_an_chinh_xac": "アプリケーション"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "マウスやキーボードの操作の仕方、ウィンドウの見え方、ファイルの扱い方などを決定するのは何ですか。",
+                "dap_an_chinh_xac": "ユーザインタフェース"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "複数ユーザが利用するときにはユーザ毎に利用環境を保存し、他人のファイルや情報へのアクセスを制限する( )機能が必要です。",
+                "dap_an_chinh_xac": "ユーザ管理"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "OSの機能は何ですか。",
+                "dap_an_chinh_xac": "ハードウェアの相違を管理すること"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "OSの種類にビジネス用OSがあります。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "OSはパソコンだけでなく、ハードディスクレコーダ、カーナビ、ゲーム機などの( )にも組み込まれています。",
+                "dap_an_chinh_xac": "家電製品"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "複数のプログラムが同時に動くように管理することをマルチユーザと呼んでいます",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ソフトとハードの仲介という機能について正しいものをえらんでください。",
+                "dap_an_chinh_xac": "ハードウェアの相違を吸収します"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "プロセス管理という機能について正しいものをえらんでください。",
+                "dap_an_chinh_xac": "ソフトウェアの処理を管理します"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "Linuxについて正しくないものを選びなさい。",
+                "dap_an_chinh_xac": "内部の情報が公開されない"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "家電製品用のOSは販売台数が少ない",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "システムソフトウェアはアプリケーションソフト以外のソフトウェアのことです。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 17_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "データベースとは大量のデータを( )管理でき、データの検索、書き換えが容易に行えるものです。",
+                "dap_an_chinh_xac": "保存"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "完備性とは、変更や削除などのデータ操作を行ってもデータの( )が保たれることを意味します。",
+                "dap_an_chinh_xac": "整合性"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "大量のデータを扱うために、検索時の速度が重要です。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "データベースのデータを表す単位は何ですか。",
+                "dap_an_chinh_xac": "レコード"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "階層的表現とは、データを( )のような階層構造に並べます。",
+                "dap_an_chinh_xac": "親子"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "関係的表現について正しいものをえらんでください",
+                "dap_an_chinh_xac": "複数の関係を表す表を元にデータを記述します"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "網的表現について正しいものを選びなさい。",
+                "dap_an_chinh_xac": "データを親子構造に並べ、この構造を順次たどることによって検索する表現法"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "階層構造は直観的に分かりやすい",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "階層構造は直観的に分かりやすいのですが、検索時間がかかるという欠点があります。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "集合演算と呼ばれるデータ操作には3つの操作があります。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 18_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "SQLは人工的な言語であり、何が定義されますか。",
+                "dap_an_chinh_xac": "構文、単語など"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "SQLはデータベースを操作するための命令の集まりであり、( ) データベースを基本としています。",
+                "dap_an_chinh_xac": "関係"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "SQLについて正しくないものをえらんでください。",
+                "dap_an_chinh_xac": "機械的な言語"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "射影の結果を並べ替えるには何を使いますか。",
+                "dap_an_chinh_xac": "ORDER BYという単語"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "SQLとは構造化された問い合わせ用の( ) ということになります。",
+                "dap_an_chinh_xac": "言語"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "結合の操作はいくつの表を使いますか。",
+                "dap_an_chinh_xac": "2つ以上の表"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "表の削除はデータ定義という操作に属する。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "データ制御に照会、挿入、更新、消除が含まれる。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "条件の部分にはANDやORやBETWEEN ANDで簡単な条件を書くことができます",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ASCは下るという意味です。",
+                "dap_an_chinh_xac": "Sai"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 19_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "プログラミング言語はどのような規則を持ちますか。",
+                "dap_an_chinh_xac": "人工的な文法規則"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "プログラミング言語とは何ですか。",
+                "dap_an_chinh_xac": "コンピュータに対する命令記述の集まりである"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "オブジェクト指向について正しいものをえらんでください。",
+                "dap_an_chinh_xac": "「もの」を中心にする"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "メモリに蓄えられているプログラムは、CPUの種類に依存した機械語と呼ばれる( )です。",
+                "dap_an_chinh_xac": "低級言語"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "プログラミング言語の文法の基礎は代入、・配列、四則演算、条件判断、繰り返しがあります。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "低級言語は、汎用性や読みやすさに問題がない。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "プログラムの作成には何が用いられますか。",
+                "dap_an_chinh_xac": "高級言語"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "JavaやC++は高級言語です。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "CPUは何をしますか。",
+                "dap_an_chinh_xac": "CPUはメモリ上のデータを読み込み、逐次的に処理を継続します"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "非手続型言語は、( )かを記述することで解を得る言語です。",
+                "dap_an_chinh_xac": "何をしたい"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "高級言語について正しいものをえらんでください",
+                "dap_an_chinh_xac": "Java C++"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "手続型言語は、処理の手順を与えて、何をどうするか (How)を詳細に記述する言語である。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "Java言語はコンピュータの機種やOSに依存するソフトウェアが開発できる オブジェクト指向型の言語である。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    },
+    {
+        "bai_hoc": "Ôn tập bài 20_JIT401 – Thông tin",
+        "danh_sach_cau_hoi": [
+            {
+                "thu_tu": 1,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "プログラムの基本的な処理の( )をアルゴリズムと言います",
+                "dap_an_chinh_xac": "手順"
+            },
+            {
+                "thu_tu": 2,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "アルゴリズムを図形と矢印で表現したものを何と言いますか。",
+                "dap_an_chinh_xac": "フローチャート"
+            },
+            {
+                "thu_tu": 3,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "アルゴリズムの目的は何を明確にすることですか。",
+                "dap_an_chinh_xac": "入力、出力、処理手順"
+            },
+            {
+                "thu_tu": 4,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "小さいものから順に、または逆に大きいものから順にデータを並べ替えることは何ですか。",
+                "dap_an_chinh_xac": "ソーティング"
+            },
+            {
+                "thu_tu": 5,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "新たなプログラムを作成するときに、効率的な内部処理とともに考慮しなければならない重要な要素は何ですか。",
+                "dap_an_chinh_xac": "ヒューマンインタフェース"
+            },
+            {
+                "thu_tu": 6,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "ユーザからの入力は何から行えますか. 正しいものをえらんでください。",
+                "dap_an_chinh_xac": "キーボードやマウス"
+            },
+            {
+                "thu_tu": 7,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "選択法はソーティングアルゴリズムに属する。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 8,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "フローチャートは直観的な理解のために使われます。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 9,
+                "loai": "Trắc nghiệm",
+                "cau_hoi": "アルゴリズムに基づき、代入、条件判断、繰り返しなどの基本的な( )を組み合わせて実際のプログラムを実現します。",
+                "dap_an_chinh_xac": "要素"
+            },
+            {
+                "thu_tu": 10,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "フローチャートはプログラムよりも詳細な流れを把握するのに使われます。",
+                "dap_an_chinh_xac": "Sai"
+            },
+            {
+                "thu_tu": 11,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "ユーザインタフェースとは、ユーザに対するコンピュータなどの機械の使い勝手のことを言います。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 12,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "カメラによってユーザの身振りや表情を入力できるようになった。",
+                "dap_an_chinh_xac": "Đúng"
+            },
+            {
+                "thu_tu": 13,
+                "loai": "Đúng hay sai",
+                "cau_hoi": "出力は音声、触覚装置という方法が提案されます。",
+                "dap_an_chinh_xac": "Đúng"
+            }
+        ]
+    }
+]

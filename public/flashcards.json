@@ -1,0 +1,2189 @@
+[
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q1",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "デジタルとは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Kỹ thuật số là gì?",
+    "correct_answer": "数値化された量のこと",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>数値<rp>(</rp><rt>すうち</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>された<ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>のこと"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q2",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>さ、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>さ、<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>など<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>の<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りの<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くの<ruby>物理<rp>(</rp><rt>ぶつり</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Đại lượng vật lý của nhiều chuyển động quay của cơ thể, chẳng hạn như chiều dài, trọng lượng, thời gian, v.v. là gì?",
+    "correct_answer": "アナログ量",
+    "type": "MCQ",
+    "correct_answer_html": "アナログ<ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q3",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby><ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby><ruby>式<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>の<ruby>計算<rp>(</rp><rt>けいさん</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>はいつ<ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby>されましたか。",
+    "vietnamese_translation": "Máy tính điện/cơ được phát triển khi nào?",
+    "correct_answer": "1930年代",
+    "type": "MCQ",
+    "correct_answer_html": "1930<ruby>年代<rp>(</rp><rt>ねんだい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q4",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby><ruby>式<rp>(</rp><rt>しき</rt><rp>)</rp></ruby><ruby>計算<rp>(</rp><rt>けいさん</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>はいつ<ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby>されましたか。",
+    "vietnamese_translation": "Máy tính điện tử được phát triển khi nào?",
+    "correct_answer": "1946年",
+    "type": "MCQ",
+    "correct_answer_html": "1946<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q5",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "コンピューターの<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Chức năng của máy tính là gì?",
+    "correct_answer": "記憶と処理",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>と<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q6",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "ファイルについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn những gì không chính xác về tập tin.",
+    "correct_answer": "保存するときにはいつも自分で拡張子を指定しなければならない",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>保存<rp>(</rp><rt>ほぞん</rt><rp>)</rp></ruby>するときにはいつも<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>で<ruby>拡張<rp>(</rp><rt>かくちょう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>を<ruby>指定<rp>(</rp><rt>してい</rt><rp>)</rp></ruby>しなければならない"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q7",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "<ruby>最<rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby>高速<rp>(</rp><rt>こうそく</rt><rp>)</rp></ruby>に<ruby>計算<rp>(</rp><rt>けいさん</rt><rp>)</rp></ruby>できるコンピュータは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか",
+    "vietnamese_translation": "Máy tính nào có thể thực hiện các phép tính ở tốc độ cao nhất?",
+    "correct_answer": "スーパーコンピュータ",
+    "type": "MCQ",
+    "correct_answer_html": "スーパーコンピュータ"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q8",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "<ruby>現在<rp>(</rp><rt>げんざい</rt><rp>)</rp></ruby><ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われているコンピュータはデジタルコンピュータです",
+    "vietnamese_translation": "Máy tính hiện đang được sử dụng là máy tính kỹ thuật số.",
+    "correct_answer": "Đúng",
+    "type": "TF",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q9",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "デジタルコンピュータでは、どのような<ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>に<ruby>近似<rp>(</rp><rt>きんじ</rt><rp>)</rp></ruby>して<ruby>扱<rp>(</rp><rt>あつか</rt><rp>)</rp></ruby>っています。",
+    "vietnamese_translation": "Máy tính kỹ thuật số xử lý các con số bằng cách xấp xỉ chúng.",
+    "correct_answer": "一定単位の数字",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>一定<rp>(</rp><rt>いってい</rt><rp>)</rp></ruby><ruby>単位<rp>(</rp><rt>たんい</rt><rp>)</rp></ruby>の<ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q10",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "17<ruby>世紀<rp>(</rp><rt>せいき</rt><rp>)</rp></ruby>には<ruby>提案<rp>(</rp><rt>ていあん</rt><rp>)</rp></ruby>されたのはパスカルの<ruby>計算<rp>(</rp><rt>けいさん</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Vào thế kỷ 17, máy tính Pascal đã được đề xuất.",
+    "correct_answer": "Đúng",
+    "type": "TF",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q11",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "スマートフォンはコンピューターの<ruby>種類<rp>(</rp><rt>しゅるい</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つです。",
+    "vietnamese_translation": "Điện thoại thông minh là một loại máy tính.",
+    "correct_answer": "Đúng",
+    "type": "TF",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q12",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "ドライブとは、ファイルを<ruby>整理<rp>(</rp><rt>せいり</rt><rp>)</rp></ruby>するための<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>のことです。",
+    "vietnamese_translation": "Ổ đĩa là nơi chứa để tổ chức các tập tin.",
+    "correct_answer": "Sai",
+    "type": "TF",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 1_JIT401 – Thông tin_q13",
+    "category": "Bài Ôn tập bài 1_JIT401 – Thông tin",
+    "kanji_html": "フォルダを<ruby>閲覧<rp>(</rp><rt>えつらん</rt><rp>)</rp></ruby>するためにはフォルダを<ruby>順次<rp>(</rp><rt>じゅんじ</rt><rp>)</rp></ruby>クリックして<ruby>開<rp>(</rp><rt>ひら</rt><rp>)</rp></ruby>いていく。",
+    "vietnamese_translation": "Để xem các thư mục, hãy nhấp vào từng thư mục một để mở chúng.",
+    "correct_answer": "Đúng",
+    "type": "TF",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q14",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "ホームページを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>る<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>には<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>しますか。",
+    "vietnamese_translation": "Bạn sử dụng gì để xem trang chủ?",
+    "correct_answer": "ブラウザ",
+    "type": "MCQ",
+    "correct_answer_html": "ブラウザ"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q15",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "URLとは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか",
+    "vietnamese_translation": "URL là gì?",
+    "correct_answer": "ホームページのアドレス",
+    "type": "MCQ",
+    "correct_answer_html": "ホームページのアドレス"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q16",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "Web2.0とは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか",
+    "vietnamese_translation": "Web2.0 là gì?",
+    "correct_answer": "双方向型のホームページ",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>双方向<rp>(</rp><rt>そうほうこう</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>のホームページ"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q17",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "クラウドコンピューティングの<ruby>概念<rp>(</rp><rt>がいねん</rt><rp>)</rp></ruby>はいつ<ruby>提唱<rp>(</rp><rt>ていしょう</rt><rp>)</rp></ruby>されましたか。",
+    "vietnamese_translation": "Khái niệm điện toán đám mây được đề xuất khi nào?",
+    "correct_answer": "2006",
+    "type": "MCQ",
+    "correct_answer_html": "2006"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q18",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "<ruby>著作<rp>(</rp><rt>ちょさく</rt><rp>)</rp></ruby><ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>の<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>に<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>しますか。",
+    "vietnamese_translation": "Bản quyền thuộc về loại quyền nào?",
+    "correct_answer": "知的所有権",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>知的<rp>(</rp><rt>ちてき</rt><rp>)</rp></ruby><ruby>所有<rp>(</rp><rt>しょゆう</rt><rp>)</rp></ruby><ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q19",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "<ruby>工業<rp>(</rp><rt>こうぎょう</rt><rp>)</rp></ruby><ruby>所有<rp>(</rp><rt>しょゆう</rt><rp>)</rp></ruby><ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>はどんな<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Quyền sở hữu công nghiệp là những loại quyền gì?",
+    "correct_answer": "工業の進歩を保護する権利",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>工業<rp>(</rp><rt>こうぎょう</rt><rp>)</rp></ruby>の<ruby>進歩<rp>(</rp><rt>しんぽ</rt><rp>)</rp></ruby>を<ruby>保護<rp>(</rp><rt>ほご</rt><rp>)</rp></ruby>する<ruby>権利<rp>(</rp><rt>けんり</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q20",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "インターネット<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby><ruby>形態<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>の<ruby>主<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>なものに<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>がありますか。",
+    "vietnamese_translation": "Các loại sử dụng Internet chính là gì?",
+    "correct_answer": "ホームページ閲覧とメール送受信",
+    "type": "MCQ",
+    "correct_answer_html": "ホームページ<ruby>閲覧<rp>(</rp><rt>えつらん</rt><rp>)</rp></ruby>とメール<ruby>送受信<rp>(</rp><rt>そうじゅしん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q21",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "ポータルサイトは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>でしょう。",
+    "vietnamese_translation": "Trang web cổng thông tin là gì?",
+    "correct_answer": "入り口となるサイトのこと",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>り<ruby>口<rp>(</rp><rt>くち</rt><rp>)</rp></ruby>となるサイトのこと"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q22",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "<ruby>特許<rp>(</rp><rt>とっきょ</rt><rp>)</rp></ruby><ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>はどの<ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>に<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>しますか。",
+    "vietnamese_translation": "Quyền sáng chế thuộc về những quyền nào?",
+    "correct_answer": "工業所有権",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>工業<rp>(</rp><rt>こうぎょう</rt><rp>)</rp></ruby><ruby>所有<rp>(</rp><rt>しょゆう</rt><rp>)</rp></ruby><ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q23",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "インターネットについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい",
+    "vietnamese_translation": "Hãy chọn một điều không đúng về Internet.",
+    "correct_answer": "インターネットのおかげで、何でもできるようになった",
+    "type": "MCQ",
+    "correct_answer_html": "インターネットのおかげで、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>でもできるようになった"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q24",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "フリーウェアは<ruby>有料<rp>(</rp><rt>ゆうりょう</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Phần mềm miễn phí yêu cầu một khoản phí.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q25",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "メールを<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>るとき、<ruby>急<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>な<ruby>返事<rp>(</rp><rt>へんじ</rt><rp>)</rp></ruby>を<ruby>求<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>める。",
+    "vietnamese_translation": "Khi bạn gửi email, bạn mong đợi nhận được phản hồi nhanh chóng.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 2_JIT401 – Thông tin_q26",
+    "category": "Bài Ôn tập bài 2_JIT401 – Thông tin",
+    "kanji_html": "<ruby>著作<rp>(</rp><rt>ちょさく</rt><rp>)</rp></ruby><ruby>権<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>は<ruby>文化<rp>(</rp><rt>ぶんか</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>生産<rp>(</rp><rt>せいさん</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>ぶつ</rt><rp>)</rp></ruby>や<ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>を<ruby>保護<rp>(</rp><rt>ほご</rt><rp>)</rp></ruby>する<ruby>権利<rp>(</rp><rt>けんり</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Bản quyền là quyền bảo vệ việc sản xuất và thể hiện văn hóa.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q27",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "ITは<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>で<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "IT nghĩa là gì trong Tiếng Nhật?",
+    "correct_answer": "情報通信技術",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q28",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>放送<rp>(</rp><rt>ほうそう</rt><rp>)</rp></ruby>に<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>な<ruby>電波<rp>(</rp><rt>でんぱ</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn một điều sai về sóng vô tuyến cần thiết để phát sóng.",
+    "correct_answer": "無限資源である",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>無限<rp>(</rp><rt>むげん</rt><rp>)</rp></ruby><ruby>資源<rp>(</rp><rt>しげん</rt><rp>)</rp></ruby>である"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q29",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>有機<rp>(</rp><rt>ゆうき</rt><rp>)</rp></ruby>ELディスプレイについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn một điều không đúng về màn hình EL hữu cơ.",
+    "correct_answer": "液晶のバックライトなども同様の仕組み",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>液晶<rp>(</rp><rt>えきしょう</rt><rp>)</rp></ruby>のバックライトなども<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>の<ruby>仕組<rp>(</rp><rt>しく</rt><rp>)</rp></ruby>み"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q30",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>出力<rp>(</rp><rt>しゅつりょく</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>ハードウェアは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>がありますか。",
+    "vietnamese_translation": "Bạn có phần cứng gì cho đầu ra?",
+    "correct_answer": "プリンター",
+    "type": "MCQ",
+    "correct_answer_html": "プリンター"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q31",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>を<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いた<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に<ruby>分類<rp>(</rp><rt>ぶんるい</rt><rp>)</rp></ruby>しますか。",
+    "vietnamese_translation": "Phân loại thông tin liên lạc sử dụng điện là gì?",
+    "correct_answer": "無線通信と有線通信",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>無線<rp>(</rp><rt>むせん</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>と<ruby>有線<rp>(</rp><rt>ゆうせん</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q32",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>の<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn một thông tin không chính xác về chức năng của điện thoại di động của bạn.",
+    "correct_answer": "セグメント",
+    "type": "MCQ",
+    "correct_answer_html": "セグメント"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q33",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>自<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>発光<rp>(</rp><rt>はっこう</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>で、<ruby>発光<rp>(</rp><rt>はっこう</rt><rp>)</rp></ruby>ダイオードの<ruby>一種<rp>(</rp><rt>いっしゅ</rt><rp>)</rp></ruby>に<ruby>分類<rp>(</rp><rt>ぶんるい</rt><rp>)</rp></ruby>される<ruby>表示<rp>(</rp><rt>ひょうじ</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>はどれか。",
+    "vietnamese_translation": "Thiết bị hiển thị nào tự phát sáng và được xếp vào loại điốt phát sáng?",
+    "correct_answer": "有機ELディスプレイ",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>有機<rp>(</rp><rt>ゆうき</rt><rp>)</rp></ruby>ELディスプレイ"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q34",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>国際<rp>(</rp><rt>こくさい</rt><rp>)</rp></ruby><ruby>標準<rp>(</rp><rt>ひょうじゅん</rt><rp>)</rp></ruby>の<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>で<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>できるアプリケーションを<ruby>決定<rp>(</rp><rt>けってい</rt><rp>)</rp></ruby>するのが( )と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれるソフトウェアです。",
+    "vietnamese_translation": "Đó là phần mềm có tên ( ) xác định các ứng dụng có thể sử dụng trên điện thoại di động dựa trên tiêu chuẩn quốc tế.",
+    "correct_answer": "オペレーティングシステム",
+    "type": "MCQ",
+    "correct_answer_html": "オペレーティングシステム"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q35",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "オペレーティングシステムの<ruby>代表<rp>(</rp><rt>だいひょう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>なものは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Tính năng chính của một hệ điều hành là gì?",
+    "correct_answer": "Symbian",
+    "type": "MCQ",
+    "correct_answer_html": "Symbian"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q36",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>ハードウェアとして、スマートフォンなどでは、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われていますか。",
+    "vietnamese_translation": "Phần cứng đầu vào nào được sử dụng trong điện thoại thông minh và các thiết bị khác?",
+    "correct_answer": "タッチパネルのセンサ",
+    "type": "MCQ",
+    "correct_answer_html": "タッチパネルのセンサ"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q37",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "ハイビジョン<ruby>放送<rp>(</rp><rt>ほうそう</rt><rp>)</rp></ruby>は<ruby>従来<rp>(</rp><rt>じゅうらい</rt><rp>)</rp></ruby>のアナログ<ruby>放送<rp>(</rp><rt>ほうそう</rt><rp>)</rp></ruby>ほどたくさんの<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>が<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>ではない。",
+    "vietnamese_translation": "Phát sóng độ nét cao không yêu cầu nhiều thông tin như phát sóng analog thông thường.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q38",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>音声<rp>(</rp><rt>おんせい</rt><rp>)</rp></ruby>の<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>をそのまま<ruby>電波<rp>(</rp><rt>でんぱ</rt><rp>)</rp></ruby>の<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>に<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>き<ruby>換<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えて<ruby>送受信<rp>(</rp><rt>そうじゅしん</rt><rp>)</rp></ruby>するアナログ<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>を<ruby>特徴<rp>(</rp><rt>とくちょう</rt><rp>)</rp></ruby>としているのは<ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>2<ruby>世代<rp>(</rp><rt>せだい</rt><rp>)</rp></ruby>の<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Điện thoại di động thế hệ thứ hai được đặc trưng bởi giao tiếp analog, truyền và nhận sóng thoại trực tiếp bằng cách thay thế chúng bằng sóng vô tuyến.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 3_JIT401 – Thông tin_q39",
+    "category": "Bài Ôn tập bài 3_JIT401 – Thông tin",
+    "kanji_html": "<ruby>放送<rp>(</rp><rt>ほうそう</rt><rp>)</rp></ruby>に<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>な<ruby>電波<rp>(</rp><rt>でんぱ</rt><rp>)</rp></ruby>はテレビ<ruby>放送<rp>(</rp><rt>ほうそう</rt><rp>)</rp></ruby>の<ruby>目的<rp>(</rp><rt>もくてき</rt><rp>)</rp></ruby>で<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われる。",
+    "vietnamese_translation": "Sóng vô tuyến cần thiết cho việc phát sóng được sử dụng cho mục đích phát sóng truyền hình.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q40",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "IrDAとは、Infrared Data Association という<ruby>赤外線<rp>(</rp><rt>せきがいせん</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>の<ruby>規格<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>で、<ruby>家電<rp>(</rp><rt>かでん</rt><rp>)</rp></ruby><ruby>製品<rp>(</rp><rt>せいひん</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>のリモコンや<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>の<ruby>個人<rp>(</rp><rt>こじん</rt><rp>)</rp></ruby>( )などへで<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>されています",
+    "vietnamese_translation": "IrDA là một chuẩn truyền thông hồng ngoại được gọi là Hiệp hội dữ liệu hồng ngoại và được sử dụng để điều khiển từ xa cho các thiết bị gia dụng, điện thoại cá nhân, v.v.",
+    "correct_answer": "データ交換",
+    "type": "MCQ",
+    "correct_answer_html": "データ<ruby>交換<rp>(</rp><rt>こうかん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q41",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "<ruby>金属<rp>(</rp><rt>きんぞく</rt><rp>)</rp></ruby><ruby>線<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>や<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>ファイバなどのケーブルで<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>できる<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>手段<rp>(</rp><rt>しゅだん</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn phương tiện liên lạc không chính xác có thể được kết nối bằng cáp như dây kim loại hoặc cáp quang.",
+    "correct_answer": "IrDA",
+    "type": "MCQ",
+    "correct_answer_html": "IrDA"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q42",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "<ruby>無線<rp>(</rp><rt>むせん</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>手段<rp>(</rp><rt>しゅだん</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Phương tiện truyền thông không dây là gì?",
+    "correct_answer": "IrDA",
+    "type": "MCQ",
+    "correct_answer_html": "IrDA"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q43",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "FTTHはADSLとどう<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "FTTH khác với ADSL như thế nào?",
+    "correct_answer": "専用の光ファイバーを使",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>専用<rp>(</rp><rt>せんよう</rt><rp>)</rp></ruby>の<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>ファイバーを<ruby>使<rp>(</rp><rt>し</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q44",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby>の<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>線<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>を<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>するのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Tôi sử dụng đường dây điện thoại chung để làm gì?",
+    "correct_answer": "ADSL",
+    "type": "MCQ",
+    "correct_answer_html": "ADSL"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q45",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "<ruby>専用<rp>(</rp><rt>せんよう</rt><rp>)</rp></ruby><ruby>線<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>うのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Bạn sử dụng đường dây chuyên dụng để làm gì?",
+    "correct_answer": "FTTH",
+    "type": "MCQ",
+    "correct_answer_html": "FTTH"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q46",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "JRのSuicaなどで<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われているのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Những gì được sử dụng trong Suica của JR, v.v.?",
+    "correct_answer": "非接触型ICカード",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>非<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>接触<rp>(</rp><rt>せっしょく</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>ICカード"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q47",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>、パソコン、カーナビ、マウス、キーボード、ヘッドホンなどに<ruby>搭載<rp>(</rp><rt>とうさい</rt><rp>)</rp></ruby>されている<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>規格<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Những chuẩn giao tiếp nào được cài đặt trên điện thoại di động, máy tính, hệ thống định vị ô tô, chuột, bàn phím, tai nghe, v.v.?",
+    "correct_answer": "Bluetooth",
+    "type": "MCQ",
+    "correct_answer_html": "Bluetooth"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q48",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "IrDAについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "Hãy chọn câu trả lời đúng về IrDA.",
+    "correct_answer": "赤外線通信の規格",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>赤外線<rp>(</rp><rt>せきがいせん</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>の<ruby>規格<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q49",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "<ruby>下<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>がりのことについては<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Về sagari, vui lòng chọn câu sai.",
+    "correct_answer": "下流から上流の方向",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>下流<rp>(</rp><rt>かりゅう</rt><rp>)</rp></ruby>から<ruby>上流<rp>(</rp><rt>じょうりゅう</rt><rp>)</rp></ruby>の<ruby>方向<rp>(</rp><rt>ほうこう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q50",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "ADSLは<ruby>非対称<rp>(</rp><rt>ひたいしょう</rt><rp>)</rp></ruby>デジタル<ruby>加入<rp>(</rp><rt>かにゅう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>線<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>と<ruby>訳<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>されますか。",
+    "vietnamese_translation": "ADSL có được dịch là đường dây thuê bao kỹ thuật số không đối xứng không?",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q51",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "ホームページを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るのは<ruby>上<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>りです。",
+    "vietnamese_translation": "Việc xem trang chủ được thực hiện bằng cách leo lên.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q52",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "ファイルを<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ってくるのは<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>りです。",
+    "vietnamese_translation": "Đây là phần dưới cùng để lấy tập tin.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q53",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "LANは<ruby>無線<rp>(</rp><rt>むせん</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>手段<rp>(</rp><rt>しゅだん</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "LAN là một phương tiện truyền thông không dây.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 4_JIT401 – Thông tin_q54",
+    "category": "Bài Ôn tập bài 4_JIT401 – Thông tin",
+    "kanji_html": "IrDAは<ruby>有線<rp>(</rp><rt>ゆうせん</rt><rp>)</rp></ruby><ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "IrDA là kết nối có dây.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q55",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>と<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>との<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>のように、もっと<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>い<ruby>範囲<rp>(</rp><rt>はんい</rt><rp>)</rp></ruby>でのネットワークとして<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われているのが()です。",
+    "vietnamese_translation": "() thường được sử dụng làm mạng bao phủ một khu vực rộng hơn, chẳng hạn như giữa các quốc gia.",
+    "correct_answer": "インターネット",
+    "type": "MCQ",
+    "correct_answer_html": "インターネット"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q56",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "ハブと<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれる<ruby>集線<rp>(</rp><rt>しゅうせん</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>を<ruby>中心<rp>(</rp><rt>ちゅうしん</rt><rp>)</rp></ruby>に<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby><ruby>台<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>의コンピュータが<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>されたものは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Thứ gì đó có nhiều máy tính được kết nối với nó xung quanh một bộ tập trung được gọi là hub?",
+    "correct_answer": "スター型",
+    "type": "MCQ",
+    "correct_answer_html": "スター<ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q57",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "サーバとなっているコンピューターにはどんな<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>が<ruby>記録<rp>(</rp><rt>きろく</rt><rp>)</rp></ruby>されますか。",
+    "vietnamese_translation": "Thông tin gì được ghi lại trên máy chủ?",
+    "correct_answer": "重要な情報",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>な<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q58",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "ファイアウォールは、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>が<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>のサービスを<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けるかを()する<ruby>機器<rp>(</rp><rt>きき</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Tường lửa là một thiết bị xác định ai có thể nhận được dịch vụ nào.",
+    "correct_answer": "制限",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>制限<rp>(</rp><rt>せいげん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q59",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "ネットワークの<ruby>形態<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>については<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>がもっともよく<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われますか。",
+    "vietnamese_translation": "Loại mạng nào được sử dụng phổ biến nhất?",
+    "correct_answer": "スター型",
+    "type": "MCQ",
+    "correct_answer_html": "スター<ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q60",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "<ruby>集中<rp>(</rp><rt>しゅうちゅう</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>システムについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Hãy chọn điều sai về hệ thống xử lý tập trung.",
+    "correct_answer": "集中処理システムでは、それぞれのコンピュータの負荷が分散される",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>集中<rp>(</rp><rt>しゅうちゅう</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>システムでは、それぞれのコンピュータの<ruby>負荷<rp>(</rp><rt>ふか</rt><rp>)</rp></ruby>が<ruby>分散<rp>(</rp><rt>ぶんさん</rt><rp>)</rp></ruby>される"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q61",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "WANについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください",
+    "vietnamese_translation": "Hãy chọn ý đúng về WAN.",
+    "correct_answer": "大域的につながるネットワークのこと",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>大域<rp>(</rp><rt>たいいき</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>につながるネットワークのこと"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q62",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "ネットワークにおいて、<ruby>外部<rp>(</rp><rt>がいぶ</rt><rp>)</rp></ruby>からの<ruby>不正<rp>(</rp><rt>ふせい</rt><rp>)</rp></ruby>アクセスを<ruby>防<rp>(</rp><rt>ふせ</rt><rp>)</rp></ruby>ぐために<ruby>内部<rp>(</rp><rt>ないぶ</rt><rp>)</rp></ruby>ネットワークと<ruby>外部<rp>(</rp><rt>がいぶ</rt><rp>)</rp></ruby>ネットワークの<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>に<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>かれるものはどれか。",
+    "vietnamese_translation": "Trong một mạng, thiết bị nào sau đây được đặt giữa mạng nội bộ và mạng bên ngoài để ngăn chặn sự truy cập trái phép từ bên ngoài?",
+    "correct_answer": "ファイアウォール",
+    "type": "MCQ",
+    "correct_answer_html": "ファイアウォール"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q63",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "<ruby>集中<rp>(</rp><rt>しゅうちゅう</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>システムとは、()となるコンピュータが<ruby>中核<rp>(</rp><rt>ちゅうかく</rt><rp>)</rp></ruby>となる<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>すべてを<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>し、ユーザ<ruby>端末<rp>(</rp><rt>たんまつ</rt><rp>)</rp></ruby>は<ruby>入出力<rp>(</rp><rt>にゅうしゅつりょく</rt><rp>)</rp></ruby>のみを<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>うような<ruby>構成<rp>(</rp><rt>こうせい</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Hệ thống xử lý tập trung là hệ thống trong đó máy tính đóng vai trò là lõi và quản lý tất cả quá trình xử lý, trong khi thiết bị đầu cuối của người dùng chỉ thực hiện đầu vào và đầu ra.",
+    "correct_answer": "中心",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>中心<rp>(</rp><rt>ちゅうしん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q64",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "コンピュータネットワークとは、<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby><ruby>機器<rp>(</rp><rt>きき</rt><rp>)</rp></ruby><ruby>同士<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby>が<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>にデータの()をできるようにしたものです。",
+    "vietnamese_translation": "Mạng máy tính là mạng cho phép các thiết bị điện tử trao đổi dữ liệu bằng điện.",
+    "correct_answer": "送受信",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>送受信<rp>(</rp><rt>そうじゅしん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q65",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "サーバはサービスを<ruby>提供<rp>(</rp><rt>ていきょう</rt><rp>)</rp></ruby>するコンピュータのことです。",
+    "vietnamese_translation": "Máy chủ là một máy tính cung cấp dịch vụ.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q66",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "クライアントはユーザに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して、サービスを<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けるコンピュータのことです。",
+    "vietnamese_translation": "Máy khách là một máy tính cung cấp dịch vụ cho người dùng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q67",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "バス<ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>は、1<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>の<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>ケーブルに<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby><ruby>台<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>のコンピュータが<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>されたものです。",
+    "vietnamese_translation": "Loại bus là loại trong đó nhiều máy tính được kết nối với một cáp truyền thông duy nhất.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q68",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "リング<ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>は、<ruby>開<rp>(</rp><rt>ひら</rt><rp>)</rp></ruby>いたケーブルに<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby><ruby>台<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>のコンピュータが<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>されたものです。",
+    "vietnamese_translation": "Loại vòng có nhiều máy tính được kết nối với một cáp mở.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 5_JIT401 – Thông tin_q69",
+    "category": "Bài Ôn tập bài 5_JIT401 – Thông tin",
+    "kanji_html": "<ruby>分散<rp>(</rp><rt>ぶんさん</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>システムは、<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>を<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>のコンピュータで<ruby>分散<rp>(</rp><rt>ぶんさん</rt><rp>)</rp></ruby>して<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>する<ruby>構成<rp>(</rp><rt>こうせい</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Hệ thống xử lý phân tán là một cấu hình trong đó quá trình xử lý được phân phối và quản lý bởi nhiều máy tính.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q70",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "HTTPはハイパーテキスト(<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>、<ruby>図<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>、<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>、<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>など)を<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>るためのアプリケーション<ruby>層<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>の()の1つです。",
+    "vietnamese_translation": "HTTP là một trong những lớp ứng dụng để gửi siêu văn bản (văn bản, hình ảnh, âm thanh, bảng biểu, v.v.).",
+    "correct_answer": "転送プロトコル",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>転送<rp>(</rp><rt>てんそう</rt><rp>)</rp></ruby>プロトコル"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q71",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "IPアドレスとドメイン<ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby>変換<rp>(</rp><rt>へんかん</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>うサーバを<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Bạn gọi máy chủ chuyển đổi địa chỉ IP và tên miền là gì?",
+    "correct_answer": "DNSサーバ",
+    "type": "MCQ",
+    "correct_answer_html": "DNSサーバ"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q72",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "ホームページを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るときも、ウェブサーバから<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>経由<rp>(</rp><rt>けいゆ</rt><rp>)</rp></ruby>してコンテンツ<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>が<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>られてきますか。",
+    "vietnamese_translation": "Khi xem trang chủ, thông tin nội dung được gửi từ máy chủ web bằng phương tiện gì?",
+    "correct_answer": "ルータ",
+    "type": "MCQ",
+    "correct_answer_html": "ルータ"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q73",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "<ruby>途中<rp>(</rp><rt>とちゅう</rt><rp>)</rp></ruby>にあるサーバが<ruby>故障<rp>(</rp><rt>こしょう</rt><rp>)</rp></ruby>していると、どのようなことが<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こりますか。",
+    "vietnamese_translation": "Điều gì xảy ra nếu một máy chủ trong quá trình thực hiện bị hỏng?",
+    "correct_answer": "ホームページ閲覧ができる",
+    "type": "MCQ",
+    "correct_answer_html": "ホームページ<ruby>閲覧<rp>(</rp><rt>えつらん</rt><rp>)</rp></ruby>ができる"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q74",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "インターネット<ruby>経由<rp>(</rp><rt>けいゆ</rt><rp>)</rp></ruby>のメールは、どんな<ruby>程度<rp>(</rp><rt>ていど</rt><rp>)</rp></ruby>の<ruby>安全<rp>(</rp><rt>あんぜん</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Email được gửi qua Internet an toàn đến mức nào?",
+    "correct_answer": "はがき",
+    "type": "MCQ",
+    "correct_answer_html": "はがき"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q75",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "「.com」のように<ruby>種別<rp>(</rp><rt>しゅべつ</rt><rp>)</rp></ruby>だけで<ruby>国名<rp>(</rp><rt>こくめい</rt><rp>)</rp></ruby>がないのはどこのドメイン<ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Tên miền như thế nào là tên miền như \".com\" chỉ có loại mà không có tên quốc gia?",
+    "correct_answer": "アメリカ",
+    "type": "MCQ",
+    "correct_answer_html": "アメリカ"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q76",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "IPアドレスについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn địa chỉ IP không chính xác.",
+    "correct_answer": "覚えやすい",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えやすい"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q77",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "プロトコルとは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Giao thức là gì?",
+    "correct_answer": "コンピュータが従うべきデータ転送規約のこと",
+    "type": "MCQ",
+    "correct_answer_html": "コンピュータが<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>うべきデータ<ruby>転送<rp>(</rp><rt>てんそう</rt><rp>)</rp></ruby><ruby>規約<rp>(</rp><rt>きやく</rt><rp>)</rp></ruby>のこと"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q78",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "HTMLは、「<」 と 「>」 で<ruby>囲<rp>(</rp><rt>かこ</rt><rp>)</rp></ruby>まれた<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の() という<ruby>標識<rp>(</rp><rt>ひょうしき</rt><rp>)</rp></ruby>によって<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>を<ruby>記述<rp>(</rp><rt>きじゅつ</rt><rp>)</rp></ruby>します。",
+    "vietnamese_translation": "Trong HTML, thông tin được viết bằng dấu () bên trong () được bao quanh bởi ().",
+    "correct_answer": "タグ",
+    "type": "MCQ",
+    "correct_answer_html": "タグ"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q79",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "IPアドレスは<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby><ruby>間違<rp>(</rp><rt>まちが</rt><rp>)</rp></ruby>いが<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い",
+    "vietnamese_translation": "Có rất nhiều lỗi khi nhập địa chỉ IP.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q80",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "ドメイン<ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>は<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えにくい。",
+    "vietnamese_translation": "Tên miền rất khó nhớ.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 6_JIT401 – Thông tin_q81",
+    "category": "Bài Ôn tập bài 6_JIT401 – Thông tin",
+    "kanji_html": "インターネットには<ruby>世界中<rp>(</rp><rt>せかいじゅう</rt><rp>)</rp></ruby>のコンピュータが<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>されるので、メールを<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>ったりホームページにアクセスしたりする<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>のコンピュータを<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しく<ruby>指定<rp>(</rp><rt>してい</rt><rp>)</rp></ruby>しなければなりません",
+    "vietnamese_translation": "Vì các máy tính trên toàn thế giới đều được kết nối với Internet nên bạn phải chỉ định đúng máy tính để gửi e-mail hoặc truy cập trang chủ.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q82",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "()とは、オンラインで<ruby>販売<rp>(</rp><rt>はんばい</rt><rp>)</rp></ruby><ruby>時点<rp>(</rp><rt>じてん</rt><rp>)</rp></ruby>のデータを<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>するシステムのことです。",
+    "vietnamese_translation": "() là hệ thống quản lý dữ liệu tại thời điểm bán hàng trực tuyến.",
+    "correct_answer": "POS",
+    "type": "MCQ",
+    "correct_answer_html": "POS"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q83",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "<ruby>消費<rp>(</rp><rt>しょうひ</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby>のことは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Giao dịch giữa người tiêu dùng với người tiêu dùng là gì?",
+    "correct_answer": "CtoC",
+    "type": "MCQ",
+    "correct_answer_html": "CtoC"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q84",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "EDIは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "EDI là gì?",
+    "correct_answer": "ネットワークを使った電子データ交換の標準化のこと",
+    "type": "MCQ",
+    "correct_answer_html": "ネットワークを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>った<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby>データ<ruby>交換<rp>(</rp><rt>こうかん</rt><rp>)</rp></ruby>の<ruby>標準<rp>(</rp><rt>ひょうじゅん</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>のこと"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q85",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "ウェブサイトに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>するID<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>を<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>させ、<ruby>再度<rp>(</rp><rt>さいど</rt><rp>)</rp></ruby>そのサイトにアクセスしたときには<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>が<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かを<ruby>自動的<rp>(</rp><rt>じどうてき</rt><rp>)</rp></ruby>に<ruby>伝<rp>(</rp><rt>つた</rt><rp>)</rp></ruby>えるのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>という<ruby>仕組<rp>(</rp><rt>しく</rt><rp>)</rp></ruby>みですか。",
+    "vietnamese_translation": "Cơ chế mà một trang web ghi nhớ thông tin ID của bạn và tự động cho bạn biết bạn là ai khi bạn truy cập lại trang web đó là gì?",
+    "correct_answer": "クッキ",
+    "type": "MCQ",
+    "correct_answer_html": "クッキ"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q86",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby><ruby>商<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>介<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>した<ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby>プロセスの<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>のことですか。",
+    "vietnamese_translation": "Giao dịch điện tử đề cập đến việc chuyển đổi điện tử của quá trình giao dịch thông qua cái gì?",
+    "correct_answer": "ネットワーク",
+    "type": "MCQ",
+    "correct_answer_html": "ネットワーク"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q87",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "VISAキャッシュはどんな<ruby>型<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>の<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby>マネーですか。",
+    "vietnamese_translation": "VISA Cash là loại tiền điện tử nào?",
+    "correct_answer": "オープンループ型",
+    "type": "MCQ",
+    "correct_answer_html": "オープンループ<ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q88",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby><ruby>商<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby><ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>の<ruby>標準<rp>(</rp><rt>ひょうじゅん</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>であるEOSについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "Hãy chọn câu trả lời đúng về EOS là tiêu chuẩn hóa thông tin giao dịch thương mại điện tử.",
+    "correct_answer": "オンラインの受発注システム",
+    "type": "MCQ",
+    "correct_answer_html": "オンラインの<ruby>受発注<rp>(</rp><rt>じゅはっちゅう</rt><rp>)</rp></ruby>システム"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q89",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "<ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby>プロセスとは、<ruby>受注<rp>(</rp><rt>じゅちゅう</rt><rp>)</rp></ruby>、<ruby>発注<rp>(</rp><rt>はっちゅう</rt><rp>)</rp></ruby>、()<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>にも<ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby><ruby>案内<rp>(</rp><rt>あんない</rt><rp>)</rp></ruby>や<ruby>配送<rp>(</rp><rt>はいそう</rt><rp>)</rp></ruby>などの<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>、さらには<ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby><ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby>まで<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>めます。",
+    "vietnamese_translation": "Ngoài việc nhận và đặt hàng, quá trình giao dịch còn bao gồm các khâu xử lý như thông tin sản phẩm, giao hàng và thậm chí cả phát triển sản phẩm.",
+    "correct_answer": "決済",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>決済<rp>(</rp><rt>けっさい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q90",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "BtoCは<ruby>企業<rp>(</rp><rt>きぎょう</rt><rp>)</rp></ruby><ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby><ruby>消費<rp>(</rp><rt>しょうひ</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby>のことです。",
+    "vietnamese_translation": "BtoC đề cập đến các giao dịch giữa doanh nghiệp với người tiêu dùng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q91",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "BtoBは<ruby>消費<rp>(</rp><rt>しょうひ</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby><ruby>取引<rp>(</rp><rt>とりひき</rt><rp>)</rp></ruby>のことです。",
+    "vietnamese_translation": "BtoB đề cập đến các giao dịch giữa người tiêu dùng.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q92",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "コンピュータ<ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>によって<ruby>顧客<rp>(</rp><rt>こきゃく</rt><rp>)</rp></ruby>についての<ruby>多様<rp>(</rp><rt>たよう</rt><rp>)</rp></ruby>な<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>をまとめて<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>することが<ruby>容易<rp>(</rp><rt>ようい</rt><rp>)</rp></ruby>になり、コピーして<ruby>複製<rp>(</rp><rt>ふくせい</rt><rp>)</rp></ruby>を<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>すことが<ruby>容易<rp>(</rp><rt>ようい</rt><rp>)</rp></ruby>になりました。",
+    "vietnamese_translation": "Tin học hóa đã giúp việc quản lý chung nhiều loại thông tin về khách hàng trở nên dễ dàng hơn và việc sao chép và lưu giữ các bản sao cũng trở nên dễ dàng hơn.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q93",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "クローズドループ<ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>の<ruby>代表<rp>(</rp><rt>だいひょう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>なものはMaster CardのMondexです。",
+    "vietnamese_translation": "Loại vòng kín tiêu biểu nhất là Mondex của Master Card.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 7_JIT401 – Thông tin_q94",
+    "category": "Bài Ôn tập bài 7_JIT401 – Thông tin",
+    "kanji_html": "<ruby>電子<rp>(</rp><rt>でんし</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>し、ネットワークを<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>することで、コスト<ruby>削減<rp>(</rp><rt>さくげん</rt><rp>)</rp></ruby>につながります。",
+    "vietnamese_translation": "Bằng cách số hóa và sử dụng mạng, chi phí có thể giảm.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q95",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn đúng về mã hóa.",
+    "correct_answer": "与えられた原文が推測できないように変換すること",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>えられた<ruby>原文<rp>(</rp><rt>げんぶん</rt><rp>)</rp></ruby>が<ruby>推測<rp>(</rp><rt>すいそく</rt><rp>)</rp></ruby>できないように<ruby>変換<rp>(</rp><rt>へんかん</rt><rp>)</rp></ruby>すること"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q96",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "()とは、<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>られてきた<ruby>文書<rp>(</rp><rt>ぶんしょ</rt><rp>)</rp></ruby>が<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かに<ruby>本人<rp>(</rp><rt>ほんにん</rt><rp>)</rp></ruby>のものであるかどうかを<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かめることです。",
+    "vietnamese_translation": "() là để đảm bảo rằng tài liệu gửi cho bạn thực sự là người đã gửi nó cho bạn.",
+    "correct_answer": "認証",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>認証<rp>(</rp><rt>にんしょう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q97",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>換字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby><ruby>式<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>の<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください",
+    "vietnamese_translation": "Vui lòng chọn phương án đúng về phương pháp mã hóa của phương pháp thay thế.",
+    "correct_answer": "文字を何文字かずらすことで暗号化する",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>を<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>かずらすことで<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>する"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q98",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>錠<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>のアイコンは、<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby>された<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>が<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>によって<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>されている<ruby>状態<rp>(</rp><rt>じょうたい</rt><rp>)</rp></ruby>であることを<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>しますか。",
+    "vietnamese_translation": "Biểu tượng ổ khóa có cho biết thông tin nhập vào đã được mã hóa không?",
+    "correct_answer": "SSL",
+    "type": "MCQ",
+    "correct_answer_html": "SSL"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q99",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>を<ruby>第三者<rp>(</rp><rt>だいさんしゃ</rt><rp>)</rp></ruby>にも<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らせてしまう<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>を<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>びますか。",
+    "vietnamese_translation": "Bạn gọi phương thức mã hóa nào giúp bên thứ ba biết được khóa?",
+    "correct_answer": "公開鍵方式",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby><ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q100",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>して<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>る<ruby>側<rp>(</rp><rt>がわ</rt><rp>)</rp></ruby>と、<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>け<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って<ruby>復号<rp>(</rp><rt>ふくごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>する<ruby>側<rp>(</rp><rt>がわ</rt><rp>)</rp></ruby>は、<ruby>共通<rp>(</rp><rt>きょうつう</rt><rp>)</rp></ruby>の<ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ち、<ruby>他人<rp>(</rp><rt>たにん</rt><rp>)</rp></ruby>に<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られないようにして<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>している<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Bên mã hóa và gửi nó cũng như bên nhận và giải mã nó đều chia sẻ một khóa chung. Phương thức mã hóa được sử dụng để liên lạc mà không bị người khác biết là gì?",
+    "correct_answer": "秘密鍵方式",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>秘密<rp>(</rp><rt>ひみつ</rt><rp>)</rp></ruby><ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q101",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>う()の<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>の1つであるスキュタレー<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby>では、<ruby>円筒<rp>(</rp><rt>えんとう</rt><rp>)</rp></ruby>にリボンを<ruby>巻<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>き<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>けて、リボンに<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>を<ruby>横<rp>(</rp><rt>よこ</rt><rp>)</rp></ruby>に<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いて<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>ります。",
+    "vietnamese_translation": "Trong mật mã Scytale, một trong những mật mã cơ học, một dải ruy băng được quấn quanh một hình trụ, các ký tự được viết theo chiều ngang trên dải băng và mật mã được gửi đi.",
+    "correct_answer": "転置式",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>転置<rp>(</rp><rt>てんち</rt><rp>)</rp></ruby><ruby>式<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q102",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>換字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby><ruby>式<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>の<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn một phương pháp mã hóa của phương pháp thay thế không chính xác.",
+    "correct_answer": "受け取る側では何文字ずらしたかを知らなくても復号化ができる",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>け<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>る<ruby>側<rp>(</rp><rt>がわ</rt><rp>)</rp></ruby>では<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>ずらしたかを<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らなくても<ruby>復号<rp>(</rp><rt>ふくごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ができる"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q103",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>の<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby>では、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>って<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>、<ruby>復号<rp>(</rp><rt>ふくごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Mật mã hiện đại sử dụng gì để mã hóa và giải mã?",
+    "correct_answer": "コンピューター",
+    "type": "MCQ",
+    "correct_answer_html": "コンピューター"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q104",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby><ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn một kết quả không chính xác về hệ thống khóa công khai.",
+    "correct_answer": "鍵を第三者に公開しない暗号化方式",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>を<ruby>第三者<rp>(</rp><rt>だいさんしゃ</rt><rp>)</rp></ruby>に<ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby>しない<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q105",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>共通<rp>(</rp><rt>きょうつう</rt><rp>)</rp></ruby><ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>はハガキ<ruby>程度<rp>(</rp><rt>ていど</rt><rp>)</rp></ruby>の<ruby>安全<rp>(</rp><rt>あんぜん</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>しかない",
+    "vietnamese_translation": "Hệ thống khóa chung chỉ an toàn như một tấm bưu thiếp.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q106",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "<ruby>原文<rp>(</rp><rt>げんぶん</rt><rp>)</rp></ruby>に<ruby>戻<rp>(</rp><rt>もど</rt><rp>)</rp></ruby>すことを<ruby>復号<rp>(</rp><rt>ふくごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います",
+    "vietnamese_translation": "Việc quay lại văn bản gốc được gọi là giải mã.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 8_JIT401 – Thông tin_q107",
+    "category": "Bài Ôn tập bài 8_JIT401 – Thông tin",
+    "kanji_html": "HTTPSは<ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby><ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>と<ruby>秘密<rp>(</rp><rt>ひみつ</rt><rp>)</rp></ruby><ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>により<ruby>暗号<rp>(</rp><rt>あんごう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>した<ruby>状態<rp>(</rp><rt>じょうたい</rt><rp>)</rp></ruby>で<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>うことを<ruby>示<rp>(</rp><rt>しめ</rt><rp>)</rp></ruby>します。",
+    "vietnamese_translation": "HTTPS chỉ ra rằng thông tin được truyền đạt ở trạng thái được mã hóa bằng phương thức khóa chung và phương thức khóa bí mật.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q108",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "()は<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby><ruby>箇所<rp>(</rp><rt>かしょ</rt><rp>)</rp></ruby>にデータのコピーを<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>すことです。",
+    "vietnamese_translation": "() có nghĩa là để lại các bản sao dữ liệu ở nhiều vị trí.",
+    "correct_answer": "バッグアップ",
+    "type": "MCQ",
+    "correct_answer_html": "バッグアップ"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q109",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "コンピューターのウィルスについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn câu đúng về virus máy tính.",
+    "correct_answer": "機械的に作成されたプログラムである",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に<ruby>作成<rp>(</rp><rt>さくせい</rt><rp>)</rp></ruby>されたプログラムである"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q110",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "<ruby>未<rp>(</rp><rt>み</rt><rp>)</rp></ruby><ruby>承諾<rp>(</rp><rt>しょうだく</rt><rp>)</rp></ruby>の<ruby>広告<rp>(</rp><rt>こうこく</rt><rp>)</rp></ruby>、<ruby>詐欺<rp>(</rp><rt>さぎ</rt><rp>)</rp></ruby><ruby>紛<rp>(</rp><rt>まが</rt><rp>)</rp></ruby>いの<ruby>内容<rp>(</rp><rt>ないよう</rt><rp>)</rp></ruby>などの<ruby>迷惑<rp>(</rp><rt>めいわく</rt><rp>)</rp></ruby>メールのことを<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Bạn gọi email không được yêu cầu có chứa quảng cáo không được yêu cầu, nội dung lừa đảo hoặc gây hiểu lầm là gì?",
+    "correct_answer": "スパムメール",
+    "type": "MCQ",
+    "correct_answer_html": "スパムメール"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q111",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "コンピューターがあえる<ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Những tai nạn nào có thể xảy ra với máy tính?",
+    "correct_answer": "故障とバグ",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>故障<rp>(</rp><rt>こしょう</rt><rp>)</rp></ruby>とバグ"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q112",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>のパスワード<ruby>窃盗<rp>(</rp><rt>せっとう</rt><rp>)</rp></ruby><ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Những cách mới nhất để đánh cắp mật khẩu là gì?",
+    "correct_answer": "トロイの木馬",
+    "type": "MCQ",
+    "correct_answer_html": "トロイの<ruby>木馬<rp>(</rp><rt>もくば</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q113",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "スカベンジングといって、<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>された<ruby>個人<rp>(</rp><rt>こじん</rt><rp>)</rp></ruby><ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>を()する<ruby>犯罪<rp>(</rp><rt>はんざい</rt><rp>)</rp></ruby>もあります。",
+    "vietnamese_translation": "Ngoài ra còn có một tội gọi là nhặt rác, liên quan đến việc thu thập thông tin cá nhân còn sót lại.",
+    "correct_answer": "収集",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>収集<rp>(</rp><rt>しゅうしゅう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q114",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "データーを<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>る<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn phương pháp không chính xác để bảo vệ dữ liệu.",
+    "correct_answer": "スパムメールを送ること",
+    "type": "MCQ",
+    "correct_answer_html": "スパムメールを<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>ること"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q115",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "スカベンジングで<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>を<ruby>窃盗<rp>(</rp><rt>せっとう</rt><rp>)</rp></ruby>する<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn phương pháp đúng để đánh cắp thông tin thông qua việc nhặt rác.",
+    "correct_answer": "共用で使っているコンピュータで削除したファイルをディスクから復活する",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>共用<rp>(</rp><rt>きょうよう</rt><rp>)</rp></ruby>で<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>っているコンピュータで<ruby>削除<rp>(</rp><rt>さくじょ</rt><rp>)</rp></ruby>したファイルをディスクから<ruby>復活<rp>(</rp><rt>ふっかつ</rt><rp>)</rp></ruby>する"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q116",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に、exe, vbs, scr, pifなどの<ruby>拡張<rp>(</rp><rt>かくちょう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ<ruby>添付<rp>(</rp><rt>てんぷ</rt><rp>)</rp></ruby>ファイルがある<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>には<ruby>即座<rp>(</rp><rt>そくざ</rt><rp>)</rp></ruby>に<ruby>開<rp>(</rp><rt>ひら</rt><rp>)</rp></ruby>いてください。",
+    "vietnamese_translation": "Đặc biệt, nếu có file đính kèm có đuôi mở rộng như exe, vbs, scr, pif,.. thì hãy mở ngay lập tức.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q117",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "<ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>などの<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>なサイトを<ruby>装<rp>(</rp><rt>よそお</rt><rp>)</rp></ruby>ってクレジットカード<ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>や<ruby>暗証<rp>(</rp><rt>あんしょう</rt><rp>)</rp></ruby><ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>を<ruby>盗<rp>(</rp><rt>ぬす</rt><rp>)</rp></ruby>み<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>るフィッシング (Phishing) という<ruby>詐欺<rp>(</rp><rt>さぎ</rt><rp>)</rp></ruby>もあります。",
+    "vietnamese_translation": "Ngoài ra còn có một hình thức lừa đảo được gọi là lừa đảo, giả vờ đến từ một trang web quan trọng như ngân hàng và đánh cắp số thẻ tín dụng cũng như số bảo mật.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q118",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>などの<ruby>組織<rp>(</rp><rt>そしき</rt><rp>)</rp></ruby>で<ruby>最<rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>な<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>っているサーバは<ruby>攻撃<rp>(</rp><rt>こうげき</rt><rp>)</rp></ruby><ruby>対象<rp>(</rp><rt>たいしょう</rt><rp>)</rp></ruby>となりやすいです。",
+    "vietnamese_translation": "Các máy chủ chứa thông tin quan trọng nhất trong các tổ chức như công ty là mục tiêu dễ dàng bị tấn công.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q119",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "プログラムミスはバグです。",
+    "vietnamese_translation": "Lỗi lập trình là một lỗi.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 9_JIT401 – Thông tin_q120",
+    "category": "Bài Ôn tập bài 9_JIT401 – Thông tin",
+    "kanji_html": "ロイの<ruby>木馬<rp>(</rp><rt>もくば</rt><rp>)</rp></ruby>は<ruby>現代<rp>(</rp><rt>げんだい</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>なパスワード<ruby>窃盗<rp>(</rp><rt>せっとう</rt><rp>)</rp></ruby><ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Ngựa Royjan là một phương pháp đánh cắp mật khẩu hiện đại.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q121",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "コンピュータは、<ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>、()、<ruby>制御<rp>(</rp><rt>せいぎょ</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>、<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>、<ruby>出力<rp>(</rp><rt>しゅつりょく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>の5<ruby>要素<rp>(</rp><rt>ようそ</rt><rp>)</rp></ruby>からなります。",
+    "vietnamese_translation": "Một máy tính bao gồm năm phần tử: thiết bị số học, thiết bị điều khiển, thiết bị đầu vào và thiết bị đầu ra.",
+    "correct_answer": "記憶装置制",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby><ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q122",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "マザーボード<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>でのCPU、メモリ<ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>などの<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>の<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>り<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>のことを<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Bạn gọi đường dẫn điện giữa CPU và bộ nhớ trên bo mạch chủ là gì?",
+    "correct_answer": "バス",
+    "type": "MCQ",
+    "correct_answer_html": "バス"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q123",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "キャッシュについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくない<ruby>内容<rp>(</rp><rt>ないよう</rt><rp>)</rp></ruby>を<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn nội dung nào đó không chính xác về bộ nhớ đệm.",
+    "correct_answer": "記憶容量が非常に大きい",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby><ruby>容量<rp>(</rp><rt>ようりょう</rt><rp>)</rp></ruby>が<ruby>非常<rp>(</rp><rt>ひじょう</rt><rp>)</rp></ruby>に<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きい"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q124",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "ハードディスクについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくない<ruby>内容<rp>(</rp><rt>ないよう</rt><rp>)</rp></ruby>を<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn những nội dung không chính xác về đĩa cứng.",
+    "correct_answer": "記憶容量が小さい",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby><ruby>容量<rp>(</rp><rt>ようりょう</rt><rp>)</rp></ruby>が<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さい"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q125",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "CPUには<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれる<ruby>単純<rp>(</rp><rt>たんじゅん</rt><rp>)</rp></ruby>な<ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>、<ruby>制御<rp>(</rp><rt>せいぎょ</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>が<ruby>実行<rp>(</rp><rt>じっこう</rt><rp>)</rp></ruby>できますか。",
+    "vietnamese_translation": "CPU có khả năng thực hiện xử lý số học đơn giản và xử lý điều khiển là gì?",
+    "correct_answer": "命令セット",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>命令<rp>(</rp><rt>めいれい</rt><rp>)</rp></ruby>セット"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q126",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "パソコン<ruby>内<rp>(</rp><rt>ない</rt><rp>)</rp></ruby>で<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな<ruby>面積<rp>(</rp><rt>めんせき</rt><rp>)</rp></ruby>を<ruby>占<rp>(</rp><rt>し</rt><rp>)</rp></ruby>めるメインとなる<ruby>基板<rp>(</rp><rt>きばん</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Mainboard chiếm diện tích lớn bên trong máy tính là gì?",
+    "correct_answer": "マザーボード",
+    "type": "MCQ",
+    "correct_answer_html": "マザーボード"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q127",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "<ruby>出力<rp>(</rp><rt>しゅつりょく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>がありますか。",
+    "vietnamese_translation": "Có những thiết bị đầu ra nào?",
+    "correct_answer": "ディスプレイやプリンタ",
+    "type": "MCQ",
+    "correct_answer_html": "ディスプレイやプリンタ"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q128",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "RAMについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn điều sai về RAM.",
+    "correct_answer": "電源が切れるとデータが残る",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>電源<rp>(</rp><rt>でんげん</rt><rp>)</rp></ruby>が<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>れるとデータが<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>る"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q129",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "<ruby>最<rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>いデータのアクセス<ruby>速度<rp>(</rp><rt>そくど</rt><rp>)</rp></ruby>があるのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>でしょう。",
+    "vietnamese_translation": "Cái gì có tốc độ truy cập dữ liệu cao nhất?",
+    "correct_answer": "キャッシュ",
+    "type": "MCQ",
+    "correct_answer_html": "キャッシュ"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q130",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "CPUについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn cái đúng về CPU.",
+    "correct_answer": "処理の中心となる部品である",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>の<ruby>中心<rp>(</rp><rt>ちゅうしん</rt><rp>)</rp></ruby>となる<ruby>部品<rp>(</rp><rt>ぶひん</rt><rp>)</rp></ruby>である"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q131",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "マザーボードとケーブルで<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>された<ruby>箱<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>CPUです。",
+    "vietnamese_translation": "Nó là một CPU hộp được kết nối với bo mạch chủ bằng cáp.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q132",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "CPUは<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>の<ruby>中心<rp>(</rp><rt>ちゅうしん</rt><rp>)</rp></ruby>となる<ruby>部品<rp>(</rp><rt>ぶひん</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "CPU là một thành phần là trung tâm xử lý.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 10_JIT401 – Thông tin_q133",
+    "category": "Bài Ôn tập bài 10_JIT401 – Thông tin",
+    "kanji_html": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>はメモリやハードディスクが<ruby>該当<rp>(</rp><rt>がいとう</rt><rp>)</rp></ruby>します。",
+    "vietnamese_translation": "Thiết bị lưu trữ bao gồm bộ nhớ và đĩa cứng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q134",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "チューリングマシンは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>からなりますか。",
+    "vietnamese_translation": "Máy Turing bao gồm những gì?",
+    "correct_answer": "テープ、ヘッド",
+    "type": "MCQ",
+    "correct_answer_html": "テープ、ヘッド"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q135",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "<ruby>空気<rp>(</rp><rt>くうき</rt><rp>)</rp></ruby>を<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>いたガラス<ruby>管<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にヒータと<ruby>電極<rp>(</rp><rt>でんきょく</rt><rp>)</rp></ruby>を<ruby>閉<rp>(</rp><rt>と</rt><rp>)</rp></ruby>じこめたものは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Các lò sưởi và điện cực được gắn kín bên trong ống thủy tinh mà không khí đã được loại bỏ là gì?",
+    "correct_answer": "真空管",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>真空<rp>(</rp><rt>しんくう</rt><rp>)</rp></ruby><ruby>管<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q136",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "コンピューターの<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>に<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>がありますか。",
+    "vietnamese_translation": "Các mạch cơ bản của máy tính là gì?",
+    "correct_answer": "OR回路、AND回路、NOT回路",
+    "type": "MCQ",
+    "correct_answer_html": "OR<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>、AND<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>、NOT<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q137",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "ICについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "集積回路である",
+    "correct_answer": "集積回路である",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>集積<rp>(</rp><rt>しゅうせき</rt><rp>)</rp></ruby><ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>である"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q138",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "<ruby>真空<rp>(</rp><rt>しんくう</rt><rp>)</rp></ruby><ruby>管<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Chức năng của ống chân không là gì?",
+    "correct_answer": "電流を一方通行にすること",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>電流<rp>(</rp><rt>でんりゅう</rt><rp>)</rp></ruby>を<ruby>一方<rp>(</rp><rt>いっぽう</rt><rp>)</rp></ruby><ruby>通行<rp>(</rp><rt>つうこう</rt><rp>)</rp></ruby>にすること"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q139",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "CPUの<ruby>動作<rp>(</rp><rt>どうさ</rt><rp>)</rp></ruby><ruby>原理<rp>(</rp><rt>げんり</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に<ruby>基<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>づいていますか。",
+    "vietnamese_translation": "Nguyên lý hoạt động của CPU dựa trên cơ sở nào?",
+    "correct_answer": "チューリングマシン",
+    "type": "MCQ",
+    "correct_answer_html": "チューリングマシン"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q140",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby><ruby>集積<rp>(</rp><rt>しゅうせき</rt><rp>)</rp></ruby><ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>世代<rp>(</rp><rt>せだい</rt><rp>)</rp></ruby>の<ruby>論理<rp>(</rp><rt>ろんり</rt><rp>)</rp></ruby><ruby>素子<rp>(</rp><rt>そし</rt><rp>)</rp></ruby>でしょう。",
+    "vietnamese_translation": "Những mạch tích hợp quy mô lớn này là thế hệ phần tử logic nào?",
+    "correct_answer": "第4世代",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>4<ruby>世代<rp>(</rp><rt>せだい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q141",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "OR<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>とは、スイッチが( )に<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>んだ<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>としてモデル<ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>されます。",
+    "vietnamese_translation": "Mạch OR được mô hình hóa như một mạch trong đó các công tắc được bố trí theo ( ).",
+    "correct_answer": "並列",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>並列<rp>(</rp><rt>へいれつ</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q142",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "<ruby>真空<rp>(</rp><rt>しんくう</rt><rp>)</rp></ruby><ruby>管<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>は<ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>2<ruby>世代<rp>(</rp><rt>せだい</rt><rp>)</rp></ruby>の<ruby>論理<rp>(</rp><rt>ろんり</rt><rp>)</rp></ruby><ruby>素子<rp>(</rp><rt>そし</rt><rp>)</rp></ruby>である。",
+    "vietnamese_translation": "Ống chân không là phần tử logic thế hệ thứ hai.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q143",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "AND<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>の<ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby>のことを<ruby>論理<rp>(</rp><rt>ろんり</rt><rp>)</rp></ruby><ruby>和<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います",
+    "vietnamese_translation": "Các phép toán của mạch AND được gọi là tổng logic.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q144",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "OR<ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>の<ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby>のことを<ruby>論理<rp>(</rp><rt>ろんり</rt><rp>)</rp></ruby><ruby>和<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います",
+    "vietnamese_translation": "Các phép toán của mạch OR được gọi là tổng logic.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q145",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "LSIは<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby><ruby>集積<rp>(</rp><rt>しゅうせき</rt><rp>)</rp></ruby><ruby>回路<rp>(</rp><rt>かいろ</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "LSI là một mạch tích hợp quy mô lớn.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 11_JIT401 – Thông tin_q146",
+    "category": "Bài Ôn tập bài 11_JIT401 – Thông tin",
+    "kanji_html": "チューリングマシンはヘッド、メモリから<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>されますか。",
+    "vietnamese_translation": "Máy Turing có được xây dựng từ đầu và bộ nhớ không?",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q147",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "2.<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>の<ruby>最小<rp>(</rp><rt>さいしょう</rt><rp>)</rp></ruby><ruby>単位<rp>(</rp><rt>たんい</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "2. Đơn vị thông tin nhỏ nhất là gì?",
+    "correct_answer": "ピット",
+    "type": "MCQ",
+    "correct_answer_html": "ピット"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q148",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "1.<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>には、<ruby>英<rp>(</rp><rt>えい</rt><rp>)</rp></ruby><ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>よりも<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>がどうなりますか。",
+    "vietnamese_translation": "1.Trong trường hợp của tiếng Nhật, lượng thông tin so với ký tự tiếng Anh sẽ như thế nào?",
+    "correct_answer": "大幅に数が増える",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>大幅<rp>(</rp><rt>おおはば</rt><rp>)</rp></ruby>に<ruby>数<rp>(</rp><rt>かず</rt><rp>)</rp></ruby>が<ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>える"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q149",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "4. アルファベット1<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>の<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>はどうなりますか。",
+    "vietnamese_translation": "4. Lượng thông tin cho một chữ cái trong bảng chữ cái là bao nhiêu?",
+    "correct_answer": "8 bit = 1 byte",
+    "type": "MCQ",
+    "correct_answer_html": "8 bit = 1 byte"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q150",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "3.<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>の<ruby>最大<rp>(</rp><rt>さいだい</rt><rp>)</rp></ruby><ruby>単位<rp>(</rp><rt>たんい</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "3. Đơn vị thông tin tối đa là bao nhiêu?",
+    "correct_answer": "テラバイト",
+    "type": "MCQ",
+    "correct_answer_html": "テラバイト"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q151",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "6.コンピュータのデータは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>の<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>びで<ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>された<ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "6. Dữ liệu máy tính được biểu diễn bằng số theo trình tự nào?",
+    "correct_answer": "0と1",
+    "type": "MCQ",
+    "correct_answer_html": "0と1"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q152",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "5. データの<ruby>数字<rp>(</rp><rt>すうじ</rt><rp>)</rp></ruby>と<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>の<ruby>対応<rp>(</rp><rt>たいおう</rt><rp>)</rp></ruby>を<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めているのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "5. Điều gì quyết định sự tương ứng giữa số và chữ cái trong dữ liệu?",
+    "correct_answer": "文字コード",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>コード"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q153",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "8.<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>でのコードではないのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "8.Mật mã trong tiếng Nhật không phải là gì?",
+    "correct_answer": "ASCIIコード",
+    "type": "MCQ",
+    "correct_answer_html": "ASCIIコード"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q154",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "7.<ruby>現在<rp>(</rp><rt>げんざい</rt><rp>)</rp></ruby>、<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>にはひらがな、カタカナ、<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>などを<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>めていくつの<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>にコード<ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>が<ruby>割<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>り<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>てられていますか。",
+    "vietnamese_translation": "7.Hiện nay, có bao nhiêu ký tự trong tiếng Nhật, bao gồm hiragana, katakana, kanji, v.v. được gán mã số?",
+    "correct_answer": "65,536",
+    "type": "MCQ",
+    "correct_answer_html": "65,536"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q155",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "データを<ruby>解釈<rp>(</rp><rt>かいしゃく</rt><rp>)</rp></ruby>するときには、どの<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>コードを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>うべきなのかを<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>れば<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しく<ruby>表示<rp>(</rp><rt>ひょうじ</rt><rp>)</rp></ruby>できす。",
+    "vietnamese_translation": "Khi diễn giải dữ liệu, bạn có thể hiển thị chính xác nếu bạn biết nên sử dụng mã ký tự nào.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 13_JIT401 – Thông tin_q156",
+    "category": "Bài Ôn tập bài 13_JIT401 – Thông tin",
+    "kanji_html": "9.<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>1<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>はどうなりますか。",
+    "vietnamese_translation": "9. Điều gì xảy ra với lượng thông tin đại diện cho một ký tự tiếng Nhật?",
+    "correct_answer": "2バイト",
+    "type": "MCQ",
+    "correct_answer_html": "2バイト"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q157",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>では1<ruby>秒<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby>に<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き<ruby>換<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えを<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>っていますか。",
+    "vietnamese_translation": "Trong một bộ phim, có bao nhiêu thay đổi được thực hiện trong một giây?",
+    "correct_answer": "24",
+    "type": "MCQ",
+    "correct_answer_html": "24"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q158",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "デジタル<ruby>画像<rp>(</rp><rt>がぞう</rt><rp>)</rp></ruby>は<ruby>横<rp>(</rp><rt>よこ</rt><rp>)</rp></ruby>に<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>んだ<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>の<ruby>集<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>まりとして<ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>されています",
+    "vietnamese_translation": "Một hình ảnh kỹ thuật số được thể hiện dưới dạng tập hợp các dấu chấm xếp hàng theo chiều ngang.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q159",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "1<ruby>画素<rp>(</rp><rt>がそ</rt><rp>)</rp></ruby>の<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ビットとなりますか。",
+    "vietnamese_translation": "Một pixel chứa bao nhiêu bit thông tin?",
+    "correct_answer": "24",
+    "type": "MCQ",
+    "correct_answer_html": "24"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q160",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "Điền vào chỗ trống. ( )を<ruby>構成<rp>(</rp><rt>こうせい</rt><rp>)</rp></ruby>する<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>をピクセルと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います。",
+    "vietnamese_translation": "Các điểm tạo nên ( ) được gọi là pixel.",
+    "correct_answer": "画像",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>画像<rp>(</rp><rt>がぞう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q161",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "<ruby>画素<rp>(</rp><rt>がそ</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>が<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さいほどきれいな<ruby>画像<rp>(</rp><rt>がぞう</rt><rp>)</rp></ruby>が<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>られます",
+    "vietnamese_translation": "Số lượng pixel càng nhỏ thì hình ảnh sẽ thu được càng đẹp.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q162",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "Điền vào chỗ trống. ( )のことをサンプリング<ruby>周波数<rp>(</rp><rt>しゅうはすう</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います。",
+    "vietnamese_translation": "() được gọi là tần số lấy mẫu.",
+    "correct_answer": "時間間隔",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby><ruby>間隔<rp>(</rp><rt>かんかく</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q163",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "パソコンや<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby><ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>の<ruby>液晶<rp>(</rp><rt>えきしょう</rt><rp>)</rp></ruby><ruby>画面<rp>(</rp><rt>がめん</rt><rp>)</rp></ruby>では<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>色<rp>(</rp><rt>しょく</rt><rp>)</rp></ruby>の<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さな<ruby>短冊<rp>(</rp><rt>たんざく</rt><rp>)</rp></ruby>が<ruby>集<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>まっていますか。",
+    "vietnamese_translation": "Những dải giấy nhỏ có màu gì trên màn hình LCD của máy tính hoặc điện thoại di động?",
+    "correct_answer": "3",
+    "type": "MCQ",
+    "correct_answer_html": "3"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q164",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "<ruby>着信<rp>(</rp><rt>ちゃくしん</rt><rp>)</rp></ruby>メロディは<ruby>高<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>音質<rp>(</rp><rt>おんしつ</rt><rp>)</rp></ruby>な<ruby>楽曲<rp>(</rp><rt>がっきょく</rt><rp>)</rp></ruby><ruby>再生<rp>(</rp><rt>さいせい</rt><rp>)</rp></ruby>が<ruby>可能<rp>(</rp><rt>かのう</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Giai điệu nhạc chuông có thể được phát với âm thanh chất lượng cao.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q165",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "アナログ<ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>である<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>をデジタル<ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>するために、<ruby>一定<rp>(</rp><rt>いってい</rt><rp>)</rp></ruby>の<ruby>細<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>かい<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby><ruby>間隔<rp>(</rp><rt>かんかく</rt><rp>)</rp></ruby>で<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>測<rp>(</rp><rt>はか</rt><rp>)</rp></ruby>りますか。",
+    "vietnamese_translation": "Để số hóa sóng, là đại lượng tương tự, bạn đo gì trong những khoảng thời gian nhất định?",
+    "correct_answer": "波の高さ",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>の<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>さ"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q166",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "<ruby>画素<rp>(</rp><rt>がそ</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>が<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>いほど、ぎざぎざが<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い",
+    "vietnamese_translation": "Số lượng pixel càng lớn thì độ lởm chởm càng lớn.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q167",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "<ruby>量子<rp>(</rp><rt>りょうし</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>が<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きいと<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>がどうなりますか。",
+    "vietnamese_translation": "Điều gì xảy ra với lượng thông tin khi số lượng lượng tử hóa trở nên lớn?",
+    "correct_answer": "多くなります",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くなります"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q168",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "1 kHz=10,000Hz",
+    "vietnamese_translation": "1kHz=10.000Hz",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q169",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "ヘルツは1<ruby>秒<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby>あたりの<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby> (<ruby>音<rp>(</rp><rt>おん</rt><rp>)</rp></ruby>) の<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>さの<ruby>測定<rp>(</rp><rt>そくてい</rt><rp>)</rp></ruby><ruby>回数<rp>(</rp><rt>かいすう</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>します",
+    "vietnamese_translation": "Hertz biểu thị số lần chiều cao của sóng (âm thanh) được đo trong một giây.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q170",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "MIDIはどんなコードですか。",
+    "vietnamese_translation": "MIDI là loại mã gì?",
+    "correct_answer": "音楽のための特殊なコードです",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp></ruby>のための<ruby>特殊<rp>(</rp><rt>とくしゅ</rt><rp>)</rp></ruby>なコードです"
+  },
+  {
+    "id": "bÔn tập bài 14_JIT401 – Thông tin_q171",
+    "category": "Bài Ôn tập bài 14_JIT401 – Thông tin",
+    "kanji_html": "<ruby>画素<rp>(</rp><rt>がそ</rt><rp>)</rp></ruby>は<ruby>画像<rp>(</rp><rt>がぞう</rt><rp>)</rp></ruby>を<ruby>構成<rp>(</rp><rt>こうせい</rt><rp>)</rp></ruby>する<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Điểm ảnh là những điểm tạo nên một hình ảnh.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q172",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>・<ruby>解凍<rp>(</rp><rt>かいとう</rt><rp>)</rp></ruby>ソフトによってファイルを<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>すると、<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>に<ruby>応<rp>(</rp><rt>おう</rt><rp>)</rp></ruby>じてファイル<ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>の<ruby>拡張<rp>(</rp><rt>かくちょう</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>になりますか。",
+    "vietnamese_translation": "Khi file được nén bằng phần mềm nén/giải nén, phần mở rộng của tên file tùy thuộc vào phương pháp nén là gì?",
+    "correct_answer": "RAR",
+    "type": "MCQ",
+    "correct_answer_html": "RAR"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q173",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>音声<rp>(</rp><rt>おんせい</rt><rp>)</rp></ruby>を<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>するには、( )の<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>としての<ruby>性質<rp>(</rp><rt>せいしつ</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>います。",
+    "vietnamese_translation": "Để nén âm thanh, chúng ta sử dụng tính chất sóng của ().",
+    "correct_answer": "音",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q174",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "ランレングス<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>は<ruby>最<rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby>単純<rp>(</rp><rt>たんじゅん</rt><rp>)</rp></ruby>な<ruby>画像<rp>(</rp><rt>がぞう</rt><rp>)</rp></ruby><ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>の1つです。",
+    "vietnamese_translation": "Nén theo thời lượng chạy là một trong những phương pháp nén hình ảnh đơn giản nhất.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q175",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>速度<rp>(</rp><rt>そくど</rt><rp>)</rp></ruby>のような<ruby>転送<rp>(</rp><rt>てんそう</rt><rp>)</rp></ruby>レートを<ruby>測<rp>(</rp><rt>はか</rt><rp>)</rp></ruby>るときには、1<ruby>秒<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby>あたりのbit<ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>で<ruby>数<rp>(</rp><rt>かぞ</rt><rp>)</rp></ruby>え、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Khi đo tốc độ truyền tải chẳng hạn như tốc độ truyền thông, bạn sử dụng giá trị nào dưới dạng bit trên giây?",
+    "correct_answer": "Bps",
+    "type": "MCQ",
+    "correct_answer_html": "Bps"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q176",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby>に100 Kbps 1Mbps<ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>の<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>速度<rp>(</rp><rt>そくど</rt><rp>)</rp></ruby>をブロードバンドと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います。",
+    "vietnamese_translation": "Nói chung, tốc độ truyền thông từ 100 Kbps đến 1 Mbps trở lên được gọi là băng thông rộng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q177",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "100メガの<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>ファイバなどと<ruby>宣伝<rp>(</rp><rt>せんでん</rt><rp>)</rp></ruby>されているのは、<ruby>正確<rp>(</rp><rt>せいかく</rt><rp>)</rp></ruby>には<ruby>通信<rp>(</rp><rt>つうしん</rt><rp>)</rp></ruby><ruby>速度<rp>(</rp><rt>そくど</rt><rp>)</rp></ruby>が<ruby>最大<rp>(</rp><rt>さいだい</rt><rp>)</rp></ruby>100Mbpsという<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Khi nó được quảng cáo là cáp quang 100M, điều đó thực sự có nghĩa là tốc độ truyền thông lên tới 100Mbps.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q178",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>帯域<rp>(</rp><rt>たいいき</rt><rp>)</rp></ruby>が<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>いほどデータがどう<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れますか。",
+    "vietnamese_translation": "Luồng dữ liệu sẽ như thế nào khi băng thông trở nên rộng hơn?",
+    "correct_answer": "高速に流れます",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>高速<rp>(</rp><rt>こうそく</rt><rp>)</rp></ruby>に<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れます"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q179",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>動画<rp>(</rp><rt>どうが</rt><rp>)</rp></ruby><ruby>像<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby><ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>では、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>がよく<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いられますか。",
+    "vietnamese_translation": "Cái gì thường được sử dụng cho video, hình ảnh, thông tin và nén?",
+    "correct_answer": "MPEG",
+    "type": "MCQ",
+    "correct_answer_html": "MPEG"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q180",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "( )を<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>するには、<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>の<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>としての<ruby>性質<rp>(</rp><rt>せいしつ</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>います。",
+    "vietnamese_translation": "Để nén (), chúng ta sử dụng tính chất sóng của âm thanh.",
+    "correct_answer": "音声",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>音声<rp>(</rp><rt>おんせい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q181",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>誤<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>り<ruby>検出<rp>(</rp><rt>けんしゅつ</rt><rp>)</rp></ruby>・<ruby>訂正<rp>(</rp><rt>ていせい</rt><rp>)</rp></ruby><ruby>機構<rp>(</rp><rt>きこう</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で、<ruby>最<rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby>単純<rp>(</rp><rt>たんじゅん</rt><rp>)</rp></ruby>で<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>なのがパリティチェックによる<ruby>誤<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>り<ruby>検出<rp>(</rp><rt>けんしゅつ</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Trong số các cơ chế phát hiện và sửa lỗi, phát hiện lỗi bằng kiểm tra tính chẵn lẻ là đơn giản và cơ bản nhất.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q182",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>画像<rp>(</rp><rt>がぞう</rt><rp>)</rp></ruby><ruby>形式<rp>(</rp><rt>けいしき</rt><rp>)</rp></ruby>にはどのような<ruby>形式<rp>(</rp><rt>けいしき</rt><rp>)</rp></ruby>がよく<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いられますか。<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Những định dạng hình ảnh nào liên quan đến nén thường được sử dụng? Hãy chọn cái không đúng.",
+    "correct_answer": "MPEG",
+    "type": "MCQ",
+    "correct_answer_html": "MPEG"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q183",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "<ruby>低<rp>(</rp><rt>ひく</rt><rp>)</rp></ruby>い<ruby>周波数<rp>(</rp><rt>しゅうはすう</rt><rp>)</rp></ruby>(<ruby>波長<rp>(</rp><rt>はちょう</rt><rp>)</rp></ruby>が<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>い)の<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>しますか。",
+    "vietnamese_translation": "Sóng có tần số thấp (bước sóng dài) thể hiện điều gì?",
+    "correct_answer": "元の波の大まか",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>元<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>の<ruby>波<rp>(</rp><rt>なみ</rt><rp>)</rp></ruby>の<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>まか"
+  },
+  {
+    "id": "bÔn tập bài 15_JIT401 – Thông tin_q184",
+    "category": "Bài Ôn tập bài 15_JIT401 – Thông tin",
+    "kanji_html": "ランレングス<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby>は<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>がいくつ<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>ぶかを<ruby>記述<rp>(</rp><rt>きじゅつ</rt><rp>)</rp></ruby>する<ruby>圧縮<rp>(</rp><rt>あっしゅく</rt><rp>)</rp></ruby><ruby>方式<rp>(</rp><rt>ほうしき</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Nén theo thời lượng chạy là phương pháp nén mô tả có bao nhiêu màu khác nhau.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q185",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "アプリケーションソフトとOSの<ruby>中間<rp>(</rp><rt>ちゅうかん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>位置付<rp>(</rp><rt>いちづ</rt><rp>)</rp></ruby>けとして、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>びますか。",
+    "vietnamese_translation": "Bạn gọi thứ gì đó được đặt ở đâu đó giữa phần mềm ứng dụng và hệ điều hành?",
+    "correct_answer": "ミドルウェア",
+    "type": "MCQ",
+    "correct_answer_html": "ミドルウェア"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q186",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "OSの<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>に<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>しないのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Những gì không thuộc về chức năng của hệ điều hành?",
+    "correct_answer": "アプリケーション",
+    "type": "MCQ",
+    "correct_answer_html": "アプリケーション"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q187",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "マウスやキーボードの<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>の<ruby>仕方<rp>(</rp><rt>しかた</rt><rp>)</rp></ruby>、ウィンドウの<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>え<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>、ファイルの<ruby>扱<rp>(</rp><rt>あつか</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>などを<ruby>決定<rp>(</rp><rt>けってい</rt><rp>)</rp></ruby>するのは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Điều gì quyết định những thứ như cách bạn sử dụng chuột và bàn phím, cách bạn xem các cửa sổ và cách bạn xử lý các tệp?",
+    "correct_answer": "ユーザインタフェース",
+    "type": "MCQ",
+    "correct_answer_html": "ユーザインタフェース"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q188",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>ユーザが<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>するときにはユーザ<ruby>毎<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>に<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby><ruby>環境<rp>(</rp><rt>かんきょう</rt><rp>)</rp></ruby>を<ruby>保存<rp>(</rp><rt>ほぞん</rt><rp>)</rp></ruby>し、<ruby>他人<rp>(</rp><rt>たにん</rt><rp>)</rp></ruby>のファイルや<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>へのアクセスを<ruby>制限<rp>(</rp><rt>せいげん</rt><rp>)</rp></ruby>する( )<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>が<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Khi nhiều người dùng sử dụng một trang web, cần có khả năng lưu môi trường sử dụng cho từng người dùng và hạn chế quyền truy cập vào các tệp và thông tin của người khác.",
+    "correct_answer": "ユーザ管理",
+    "type": "MCQ",
+    "correct_answer_html": "ユーザ<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q189",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "OSの<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Chức năng của hệ điều hành là gì?",
+    "correct_answer": "ハードウェアの相違を管理すること",
+    "type": "MCQ",
+    "correct_answer_html": "ハードウェアの<ruby>相違<rp>(</rp><rt>そうい</rt><rp>)</rp></ruby>を<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>すること"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q190",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "OSの<ruby>種類<rp>(</rp><rt>しゅるい</rt><rp>)</rp></ruby>にビジネス<ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>OSがあります。",
+    "vietnamese_translation": "Có nhiều loại hệ điều hành kinh doanh.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q191",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "OSはパソコンだけでなく、ハードディスクレコーダ、カーナビ、ゲーム<ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>などの( )にも<ruby>組<rp>(</rp><rt>く</rt><rp>)</rp></ruby>み<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>まれています。",
+    "vietnamese_translation": "Hệ điều hành không chỉ được tích hợp trong máy tính cá nhân mà còn cả máy ghi đĩa cứng, hệ thống định vị ô tô, máy chơi game và các thiết bị khác.",
+    "correct_answer": "家電製品",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>家電<rp>(</rp><rt>かでん</rt><rp>)</rp></ruby><ruby>製品<rp>(</rp><rt>せいひん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q192",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>のプログラムが<ruby>同時<rp>(</rp><rt>どうじ</rt><rp>)</rp></ruby>に<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>くように<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>することをマルチユーザと<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んでいます",
+    "vietnamese_translation": "Việc quản lý nhiều chương trình chạy đồng thời được gọi là nhiều người dùng.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q193",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "ソフトとハードの<ruby>仲介<rp>(</rp><rt>ちゅうかい</rt><rp>)</rp></ruby>という<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "Hãy chọn đáp án đúng về chức năng trung gian giữa phần mềm và phần cứng.",
+    "correct_answer": "ハードウェアの相違を吸収します",
+    "type": "MCQ",
+    "correct_answer_html": "ハードウェアの<ruby>相違<rp>(</rp><rt>そうい</rt><rp>)</rp></ruby>を<ruby>吸収<rp>(</rp><rt>きゅうしゅう</rt><rp>)</rp></ruby>します"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q194",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "プロセス<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>という<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "Hãy chọn câu trả lời đúng về chức năng quản lý quy trình.",
+    "correct_answer": "ソフトウェアの処理を管理します",
+    "type": "MCQ",
+    "correct_answer_html": "ソフトウェアの<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>を<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>します"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q195",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "Linuxについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn những gì không đúng về Linux.",
+    "correct_answer": "内部の情報が公開されない",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>内部<rp>(</rp><rt>ないぶ</rt><rp>)</rp></ruby>の<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>が<ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby>されない"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q196",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "<ruby>家電<rp>(</rp><rt>かでん</rt><rp>)</rp></ruby><ruby>製品<rp>(</rp><rt>せいひん</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>のOSは<ruby>販売<rp>(</rp><rt>はんばい</rt><rp>)</rp></ruby><ruby>台数<rp>(</rp><rt>だいすう</rt><rp>)</rp></ruby>が<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>ない",
+    "vietnamese_translation": "Số lượng hệ điều hành dành cho thiết bị gia dụng được bán ra còn ít.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 16_JIT401 – Thông tin_q197",
+    "category": "Bài Ôn tập bài 16_JIT401 – Thông tin",
+    "kanji_html": "システムソフトウェアはアプリケーションソフト<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>のソフトウェアのことです。",
+    "vietnamese_translation": "Phần mềm hệ thống đề cập đến phần mềm không phải là phần mềm ứng dụng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q198",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "データベースとは<ruby>大量<rp>(</rp><rt>たいりょう</rt><rp>)</rp></ruby>のデータを( )<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>でき、データの<ruby>検索<rp>(</rp><rt>けんさく</rt><rp>)</rp></ruby>、<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き<ruby>換<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えが<ruby>容易<rp>(</rp><rt>ようい</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>えるものです。",
+    "vietnamese_translation": "Cơ sở dữ liệu là thứ có thể quản lý lượng lớn dữ liệu và cho phép dữ liệu được tìm kiếm và ghi lại dễ dàng.",
+    "correct_answer": "保存",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>保存<rp>(</rp><rt>ほぞん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q199",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>完備<rp>(</rp><rt>かんび</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>とは、<ruby>変更<rp>(</rp><rt>へんこう</rt><rp>)</rp></ruby>や<ruby>削除<rp>(</rp><rt>さくじょ</rt><rp>)</rp></ruby>などのデータ<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>ってもデータの( )が<ruby>保<rp>(</rp><rt>たも</rt><rp>)</rp></ruby>たれることを<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>します。",
+    "vietnamese_translation": "Tính đầy đủ có nghĩa là ( ) của dữ liệu được duy trì ngay cả khi các thao tác dữ liệu như sửa đổi hoặc xóa được thực hiện.",
+    "correct_answer": "整合性",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>整合<rp>(</rp><rt>せいごう</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q200",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>大量<rp>(</rp><rt>たいりょう</rt><rp>)</rp></ruby>のデータを<ruby>扱<rp>(</rp><rt>あつか</rt><rp>)</rp></ruby>うために、<ruby>検索<rp>(</rp><rt>けんさく</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>の<ruby>速度<rp>(</rp><rt>そくど</rt><rp>)</rp></ruby>が<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Để xử lý lượng lớn dữ liệu, tốc độ tìm kiếm rất quan trọng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q201",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "データベースのデータを<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す<ruby>単位<rp>(</rp><rt>たんい</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Đơn vị dùng để biểu diễn dữ liệu trong cơ sở dữ liệu là gì?",
+    "correct_answer": "レコード",
+    "type": "MCQ",
+    "correct_answer_html": "レコード"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q202",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>階層<rp>(</rp><rt>かいそう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>とは、データを( )のような<ruby>階層<rp>(</rp><rt>かいそう</rt><rp>)</rp></ruby><ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>に<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べます。",
+    "vietnamese_translation": "Biểu diễn phân cấp có nghĩa là sắp xếp dữ liệu theo cấu trúc phân cấp như ( ).",
+    "correct_answer": "親子",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>親子<rp>(</rp><rt>おやこ</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q203",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください",
+    "vietnamese_translation": "Hãy chọn biểu thức quan hệ đúng.",
+    "correct_answer": "複数の関係を表す表を元にデータを記述します",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>の<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>を<ruby>元<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>にデータを<ruby>記述<rp>(</rp><rt>きじゅつ</rt><rp>)</rp></ruby>します"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q204",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>網<rp>(</rp><rt>あみ</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものを<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>びなさい。",
+    "vietnamese_translation": "Chọn câu đúng về biểu thức mạng.",
+    "correct_answer": "データを親子構造に並べ、この構造を順次たどることによって検索する表現法",
+    "type": "MCQ",
+    "correct_answer_html": "データを<ruby>親子<rp>(</rp><rt>おやこ</rt><rp>)</rp></ruby><ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>に<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べ、この<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>を<ruby>順次<rp>(</rp><rt>じゅんじ</rt><rp>)</rp></ruby>たどることによって<ruby>検索<rp>(</rp><rt>けんさく</rt><rp>)</rp></ruby>する<ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q205",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>階層<rp>(</rp><rt>かいそう</rt><rp>)</rp></ruby><ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>は<ruby>直観<rp>(</rp><rt>ちょっかん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かりやすい",
+    "vietnamese_translation": "Cấu trúc phân cấp dễ hiểu bằng trực giác.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q206",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>階層<rp>(</rp><rt>かいそう</rt><rp>)</rp></ruby><ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>は<ruby>直観<rp>(</rp><rt>ちょっかん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かりやすいのですが、<ruby>検索<rp>(</rp><rt>けんさく</rt><rp>)</rp></ruby><ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がかかるという<ruby>欠点<rp>(</rp><rt>けってん</rt><rp>)</rp></ruby>があります。",
+    "vietnamese_translation": "Mặc dù cấu trúc phân cấp dễ hiểu về mặt trực quan nhưng nó có nhược điểm là mất thời gian tìm kiếm.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 17_JIT401 – Thông tin_q207",
+    "category": "Bài Ôn tập bài 17_JIT401 – Thông tin",
+    "kanji_html": "<ruby>集合<rp>(</rp><rt>しゅうごう</rt><rp>)</rp></ruby><ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれるデータ<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>には3つの<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>があります。",
+    "vietnamese_translation": "Có ba loại thao tác dữ liệu được gọi là thao tác tập hợp.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q208",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "SQLは<ruby>人工<rp>(</rp><rt>じんこう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>であり、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>定義<rp>(</rp><rt>ていぎ</rt><rp>)</rp></ruby>されますか。",
+    "vietnamese_translation": "SQL là một ngôn ngữ nhân tạo và nó định nghĩa gì?",
+    "correct_answer": "構文、単語など",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>構文<rp>(</rp><rt>こうぶん</rt><rp>)</rp></ruby>、<ruby>単語<rp>(</rp><rt>たんご</rt><rp>)</rp></ruby>など"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q209",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "SQLはデータベースを<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>するための<ruby>命令<rp>(</rp><rt>めいれい</rt><rp>)</rp></ruby>の<ruby>集<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>まりであり、( ) データベースを<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby>としています。",
+    "vietnamese_translation": "SQL là tập hợp các lệnh để thao tác cơ sở dữ liệu và dựa trên cơ sở dữ liệu.",
+    "correct_answer": "関係",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q210",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "SQLについて<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しくないものをえらんでください。",
+    "vietnamese_translation": "Vui lòng chọn điều gì đó không đúng về SQL.",
+    "correct_answer": "機械的な言語",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q211",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "<ruby>射影<rp>(</rp><rt>しゃえい</rt><rp>)</rp></ruby>の<ruby>結果<rp>(</rp><rt>けっか</rt><rp>)</rp></ruby>を<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べ<ruby>替<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えるには<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Bạn dùng gì để sắp xếp lại kết quả phép chiếu?",
+    "correct_answer": "ORDER BYという単語",
+    "type": "MCQ",
+    "correct_answer_html": "ORDER BYという<ruby>単語<rp>(</rp><rt>たんご</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q212",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "SQLとは<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>された<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>い<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わせ<ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>の( ) ということになります。",
+    "vietnamese_translation": "SQL là một hệ thống dành cho các truy vấn và kết hợp có cấu trúc.",
+    "correct_answer": "言語",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q213",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "<ruby>結合<rp>(</rp><rt>けつごう</rt><rp>)</rp></ruby>の<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>はいくつの<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Thao tác nối sử dụng bao nhiêu bảng?",
+    "correct_answer": "2つ以上の表",
+    "type": "MCQ",
+    "correct_answer_html": "2つ<ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>の<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q214",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>の<ruby>削除<rp>(</rp><rt>さくじょ</rt><rp>)</rp></ruby>はデータ<ruby>定義<rp>(</rp><rt>ていぎ</rt><rp>)</rp></ruby>という<ruby>操作<rp>(</rp><rt>そうさ</rt><rp>)</rp></ruby>に<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>する。",
+    "vietnamese_translation": "Việc xóa bảng thuộc về một thao tác gọi là định nghĩa dữ liệu.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q215",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "データ<ruby>制御<rp>(</rp><rt>せいぎょ</rt><rp>)</rp></ruby>に<ruby>照会<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby>、<ruby>挿入<rp>(</rp><rt>そうにゅう</rt><rp>)</rp></ruby>、<ruby>更新<rp>(</rp><rt>こうしん</rt><rp>)</rp></ruby>、<ruby>消<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>除<rp>(</rp><rt>じょ</rt><rp>)</rp></ruby>が<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>まれる。",
+    "vietnamese_translation": "Kiểm soát dữ liệu bao gồm các truy vấn, chèn, cập nhật và xóa.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q216",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "<ruby>条件<rp>(</rp><rt>じょうけん</rt><rp>)</rp></ruby>の<ruby>部分<rp>(</rp><rt>ぶぶん</rt><rp>)</rp></ruby>にはANDやORやBETWEEN ANDで<ruby>簡単<rp>(</rp><rt>かんたん</rt><rp>)</rp></ruby>な<ruby>条件<rp>(</rp><rt>じょうけん</rt><rp>)</rp></ruby>を<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>くことができます",
+    "vietnamese_translation": "Trong phần điều kiện, bạn có thể viết các điều kiện đơn giản bằng AND, OR hoặc GIỮA AND.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 18_JIT401 – Thông tin_q217",
+    "category": "Bài Ôn tập bài 18_JIT401 – Thông tin",
+    "kanji_html": "ASCは<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>るという<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "ASC có nghĩa là Đi xuống.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q218",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "プログラミング<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>はどのような<ruby>規則<rp>(</rp><rt>きそく</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちますか。",
+    "vietnamese_translation": "Ngôn ngữ lập trình có những loại quy tắc nào?",
+    "correct_answer": "人工的な文法規則",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>人工<rp>(</rp><rt>じんこう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>文法<rp>(</rp><rt>ぶんぽう</rt><rp>)</rp></ruby><ruby>規則<rp>(</rp><rt>きそく</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q219",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "プログラミング<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>とは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Ngôn ngữ lập trình là gì?",
+    "correct_answer": "コンピュータに対する命令記述の集まりである",
+    "type": "MCQ",
+    "correct_answer_html": "コンピュータに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する<ruby>命令<rp>(</rp><rt>めいれい</rt><rp>)</rp></ruby><ruby>記述<rp>(</rp><rt>きじゅつ</rt><rp>)</rp></ruby>の<ruby>集<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>まりである"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q220",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "オブジェクト<ruby>指向<rp>(</rp><rt>しこう</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "Hãy chọn câu trả lời đúng về hướng đối tượng.",
+    "correct_answer": "「もの」を中心にする",
+    "type": "MCQ",
+    "correct_answer_html": "「もの」を<ruby>中心<rp>(</rp><rt>ちゅうしん</rt><rp>)</rp></ruby>にする"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q221",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "メモリに<ruby>蓄<rp>(</rp><rt>たくわ</rt><rp>)</rp></ruby>えられているプログラムは、CPUの<ruby>種類<rp>(</rp><rt>しゅるい</rt><rp>)</rp></ruby>に<ruby>依存<rp>(</rp><rt>いぞん</rt><rp>)</rp></ruby>した<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれる( )です。",
+    "vietnamese_translation": "Các chương trình được lưu trong bộ nhớ được gọi là ngôn ngữ máy, tùy thuộc vào loại CPU.",
+    "correct_answer": "低級言語",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>低級<rp>(</rp><rt>ていきゅう</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q222",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "プログラミング<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>の<ruby>文法<rp>(</rp><rt>ぶんぽう</rt><rp>)</rp></ruby>の<ruby>基礎<rp>(</rp><rt>きそ</rt><rp>)</rp></ruby>は<ruby>代入<rp>(</rp><rt>だいにゅう</rt><rp>)</rp></ruby>、・<ruby>配列<rp>(</rp><rt>はいれつ</rt><rp>)</rp></ruby>、<ruby>四則<rp>(</rp><rt>しそく</rt><rp>)</rp></ruby><ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby>、<ruby>条件<rp>(</rp><rt>じょうけん</rt><rp>)</rp></ruby><ruby>判断<rp>(</rp><rt>はんだん</rt><rp>)</rp></ruby>、<ruby>繰<rp>(</rp><rt>く</rt><rp>)</rp></ruby>り<ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>しがあります。",
+    "vietnamese_translation": "Những điều cơ bản về ngữ pháp của ngôn ngữ lập trình là phép gán, mảng, bốn phép tính số học, điều kiện, phán đoán và sự lặp lại.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q223",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "<ruby>低級<rp>(</rp><rt>ていきゅう</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>は、<ruby>汎用<rp>(</rp><rt>はんよう</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>や<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>みやすさに<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>がない。",
+    "vietnamese_translation": "Các ngôn ngữ cấp thấp không gặp vấn đề gì về tính linh hoạt hoặc khả năng đọc nói chung.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q224",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "プログラムの<ruby>作成<rp>(</rp><rt>さくせい</rt><rp>)</rp></ruby>には<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いられますか。",
+    "vietnamese_translation": "Tôi cần những gì để tạo một chương trình?",
+    "correct_answer": "高級言語",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>高級<rp>(</rp><rt>こうきゅう</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q225",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "JavaやC++は<ruby>高級<rp>(</rp><rt>こうきゅう</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Java và C++ là những ngôn ngữ cấp cao.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q226",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "CPUは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をしますか。",
+    "vietnamese_translation": "CPU làm gì?",
+    "correct_answer": "CPUはメモリ上のデータを読み込み、逐次的に処理を継続します",
+    "type": "MCQ",
+    "correct_answer_html": "CPUはメモリ<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>のデータを<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>み<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>み、<ruby>逐次<rp>(</rp><rt>ちくじ</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>を<ruby>継続<rp>(</rp><rt>けいぞく</rt><rp>)</rp></ruby>します"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q227",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "<ruby>非<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>手続<rp>(</rp><rt>てつづき</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>は、( )かを<ruby>記述<rp>(</rp><rt>きじゅつ</rt><rp>)</rp></ruby>することで<ruby>解<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>を<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>る<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>です。",
+    "vietnamese_translation": "Ngôn ngữ phi thủ tục là ngôn ngữ trong đó giải pháp đạt được bằng cách viết ().",
+    "correct_answer": "何をしたい",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をしたい"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q228",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "<ruby>高級<rp>(</rp><rt>こうきゅう</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>について<ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください",
+    "vietnamese_translation": "Vui lòng chọn đúng về ngôn ngữ cấp cao.",
+    "correct_answer": "Java C++",
+    "type": "MCQ",
+    "correct_answer_html": "Java C++"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q229",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "<ruby>手続<rp>(</rp><rt>てつづき</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby><ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>は、<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>の<ruby>手順<rp>(</rp><rt>てじゅん</rt><rp>)</rp></ruby>を<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>えて、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をどうするか (How)を<ruby>詳細<rp>(</rp><rt>しょうさい</rt><rp>)</rp></ruby>に<ruby>記述<rp>(</rp><rt>きじゅつ</rt><rp>)</rp></ruby>する<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>である。",
+    "vietnamese_translation": "Ngôn ngữ thủ tục là ngôn ngữ đưa ra hướng dẫn xử lý và mô tả chi tiết cách thực hiện.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 19_JIT401 – Thông tin_q230",
+    "category": "Bài Ôn tập bài 19_JIT401 – Thông tin",
+    "kanji_html": "Java<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>はコンピュータの<ruby>機種<rp>(</rp><rt>きしゅ</rt><rp>)</rp></ruby>やOSに<ruby>依存<rp>(</rp><rt>いぞん</rt><rp>)</rp></ruby>するソフトウェアが<ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby>できる オブジェクト<ruby>指向<rp>(</rp><rt>しこう</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>の<ruby>言語<rp>(</rp><rt>げんご</rt><rp>)</rp></ruby>である。",
+    "vietnamese_translation": "Ngôn ngữ Java là ngôn ngữ hướng đối tượng cho phép phát triển phần mềm phụ thuộc vào kiểu máy tính và hệ điều hành.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q231",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "プログラムの<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>の( )をアルゴリズムと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います",
+    "vietnamese_translation": "Việc xử lý cơ bản của một chương trình được gọi là thuật toán.",
+    "correct_answer": "手順",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>手順<rp>(</rp><rt>てじゅん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q232",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "アルゴリズムを<ruby>図形<rp>(</rp><rt>づけい</rt><rp>)</rp></ruby>と<ruby>矢印<rp>(</rp><rt>やじるし</rt><rp>)</rp></ruby>で<ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>したものを<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いますか。",
+    "vietnamese_translation": "Bạn gọi thuật toán được biểu diễn bằng hình và mũi tên là gì?",
+    "correct_answer": "フローチャート",
+    "type": "MCQ",
+    "correct_answer_html": "フローチャート"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q233",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "アルゴリズムの<ruby>目的<rp>(</rp><rt>もくてき</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>明確<rp>(</rp><rt>めいかく</rt><rp>)</rp></ruby>にすることですか。",
+    "vietnamese_translation": "Mục đích của một thuật toán để làm rõ là gì?",
+    "correct_answer": "入力、出力、処理手順",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby>、<ruby>出力<rp>(</rp><rt>しゅつりょく</rt><rp>)</rp></ruby>、<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby><ruby>手順<rp>(</rp><rt>てじゅん</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q234",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さいものから<ruby>順<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>に、または<ruby>逆<rp>(</rp><rt>ぎゃく</rt><rp>)</rp></ruby>に<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きいものから<ruby>順<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>にデータを<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べ<ruby>替<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えることは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Việc sắp xếp lại dữ liệu theo thứ tự từ nhỏ nhất đến lớn nhất hoặc ngược lại có ý nghĩa gì?",
+    "correct_answer": "ソーティング",
+    "type": "MCQ",
+    "correct_answer_html": "ソーティング"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q235",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "<ruby>新<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>たなプログラムを<ruby>作成<rp>(</rp><rt>さくせい</rt><rp>)</rp></ruby>するときに、<ruby>効率<rp>(</rp><rt>こうりつ</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>内部<rp>(</rp><rt>ないぶ</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>とともに<ruby>考慮<rp>(</rp><rt>こうりょ</rt><rp>)</rp></ruby>しなければならない<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>な<ruby>要素<rp>(</rp><rt>ようそ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか。",
+    "vietnamese_translation": "Khi tạo một chương trình mới, các yếu tố quan trọng nào cần được xem xét cùng với quá trình xử lý nội bộ hiệu quả?",
+    "correct_answer": "ヒューマンインタフェース",
+    "type": "MCQ",
+    "correct_answer_html": "ヒューマンインタフェース"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q236",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "ユーザからの<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>から<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>えますか. <ruby>正<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>しいものをえらんでください。",
+    "vietnamese_translation": "Người dùng có thể thực hiện đầu vào ở đâu? Hãy chọn cái đúng.",
+    "correct_answer": "キーボードやマウス",
+    "type": "MCQ",
+    "correct_answer_html": "キーボードやマウス"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q237",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "<ruby>選択<rp>(</rp><rt>せんたく</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>はソーティングアルゴリズムに<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>する。",
+    "vietnamese_translation": "Phương pháp lựa chọn thuộc về thuật toán sắp xếp.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q238",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "フローチャートは<ruby>直観<rp>(</rp><rt>ちょっかん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>理解<rp>(</rp><rt>りかい</rt><rp>)</rp></ruby>のために<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われます。",
+    "vietnamese_translation": "Lưu đồ được sử dụng để hiểu trực quan.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q239",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "アルゴリズムに<ruby>基<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>づき、<ruby>代入<rp>(</rp><rt>だいにゅう</rt><rp>)</rp></ruby>、<ruby>条件<rp>(</rp><rt>じょうけん</rt><rp>)</rp></ruby><ruby>判断<rp>(</rp><rt>はんだん</rt><rp>)</rp></ruby>、<ruby>繰<rp>(</rp><rt>く</rt><rp>)</rp></ruby>り<ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>しなどの<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な( )を<ruby>組<rp>(</rp><rt>く</rt><rp>)</rp></ruby>み<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わせて<ruby>実際<rp>(</rp><rt>じっさい</rt><rp>)</rp></ruby>のプログラムを<ruby>実現<rp>(</rp><rt>じつげん</rt><rp>)</rp></ruby>します。",
+    "vietnamese_translation": "Dựa trên các thuật toán, chúng tôi kết hợp các kỹ thuật cơ bản như gán, phán đoán có điều kiện và lặp lại để hiện thực hóa các chương trình thực tế.",
+    "correct_answer": "要素",
+    "type": "MCQ",
+    "correct_answer_html": "<ruby>要素<rp>(</rp><rt>ようそ</rt><rp>)</rp></ruby>"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q240",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "フローチャートはプログラムよりも<ruby>詳細<rp>(</rp><rt>しょうさい</rt><rp>)</rp></ruby>な<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れを<ruby>把握<rp>(</rp><rt>はあく</rt><rp>)</rp></ruby>するのに<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われます。",
+    "vietnamese_translation": "Lưu đồ được sử dụng để hiểu quy trình chi tiết hơn các chương trình.",
+    "correct_answer": "Sai",
+    "type": "MCQ",
+    "correct_answer_html": "Sai"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q241",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "ユーザインタフェースとは、ユーザに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>するコンピュータなどの<ruby>機械<rp>(</rp><rt>きかい</rt><rp>)</rp></ruby>の<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>勝手<rp>(</rp><rt>がって</rt><rp>)</rp></ruby>のことを<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>います。",
+    "vietnamese_translation": "Giao diện người dùng đề cập đến cách người dùng sử dụng một chiếc máy như máy tính.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q242",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "カメラによってユーザの<ruby>身振<rp>(</rp><rt>みぶ</rt><rp>)</rp></ruby>りや<ruby>表情<rp>(</rp><rt>ひょうじょう</rt><rp>)</rp></ruby>を<ruby>入力<rp>(</rp><rt>にゅうりょく</rt><rp>)</rp></ruby>できるようになった。",
+    "vietnamese_translation": "Máy ảnh đã cho phép nhập cử chỉ và nét mặt của người dùng.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  },
+  {
+    "id": "bÔn tập bài 20_JIT401 – Thông tin_q243",
+    "category": "Bài Ôn tập bài 20_JIT401 – Thông tin",
+    "kanji_html": "<ruby>出力<rp>(</rp><rt>しゅつりょく</rt><rp>)</rp></ruby>は<ruby>音声<rp>(</rp><rt>おんせい</rt><rp>)</rp></ruby>、<ruby>触覚<rp>(</rp><rt>しょっかく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>という<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>が<ruby>提案<rp>(</rp><rt>ていあん</rt><rp>)</rp></ruby>されます。",
+    "vietnamese_translation": "Các phương pháp được đề xuất bao gồm các thiết bị âm thanh và xúc giác cho đầu ra.",
+    "correct_answer": "Đúng",
+    "type": "MCQ",
+    "correct_answer_html": "Đúng"
+  }
+]
